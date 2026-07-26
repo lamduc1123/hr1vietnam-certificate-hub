@@ -217,21 +217,21 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!dateStr) return '';
         let str = dateStr.toString().trim();
         
-        // 1. Quét định dạng ISO YYYY-MM-DD (VD: 2026-03-13 08:30)
-        const isoMatch = str.match(/(\d{4})[-/](\d{1,2})[-/](\d{1,2})/);
-        if (isoMatch) {
-            const year = isoMatch[1];
-            const month = isoMatch[2].padStart(2, '0');
-            const day = isoMatch[3].padStart(2, '0');
-            return `${day}/${month}/${year}`;
-        }
-        
-        // 2. Quét định dạng Việt Nam DD/MM/YYYY (VD: 08:30 - 13/03/2026)
+        // 1. Ưu tiên quét định dạng Việt Nam DD/MM/YYYY trước (VD: 08:30 - 13/03/2026 hoặc 12:0009/03/2026)
         const dateMatch = str.match(/(\d{1,2})[-/](\d{1,2})[-/](\d{4})/);
         if (dateMatch) {
             const day = dateMatch[1].padStart(2, '0');
             const month = dateMatch[2].padStart(2, '0');
             const year = dateMatch[3];
+            return `${day}/${month}/${year}`;
+        }
+        
+        // 2. Quét định dạng ISO YYYY-MM-DD sau (VD: 2026-03-13 08:30)
+        const isoMatch = str.match(/(\d{4})[-/](\d{1,2})[-/](\d{1,2})/);
+        if (isoMatch) {
+            const year = isoMatch[1];
+            const month = isoMatch[2].padStart(2, '0');
+            const day = isoMatch[3].padStart(2, '0');
             return `${day}/${month}/${year}`;
         }
         
