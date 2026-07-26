@@ -218,7 +218,7 @@ document.addEventListener('DOMContentLoaded', () => {
         let str = dateStr.toString().trim();
         
         // 1. Quét định dạng ISO YYYY-MM-DD (VD: 2026-03-13 08:30)
-        const isoMatch = str.match(/\b(\d{4})[-/](\d{1,2})[-/](\d{1,2})\b/);
+        const isoMatch = str.match(/(\d{4})[-/](\d{1,2})[-/](\d{1,2})/);
         if (isoMatch) {
             const year = isoMatch[1];
             const month = isoMatch[2].padStart(2, '0');
@@ -227,7 +227,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         
         // 2. Quét định dạng Việt Nam DD/MM/YYYY (VD: 08:30 - 13/03/2026)
-        const dateMatch = str.match(/\b(\d{1,2})[-/](\d{1,2})[-/](\d{4})\b/);
+        const dateMatch = str.match(/(\d{1,2})[-/](\d{1,2})[-/](\d{4})/);
         if (dateMatch) {
             const day = dateMatch[1].padStart(2, '0');
             const month = dateMatch[2].padStart(2, '0');
