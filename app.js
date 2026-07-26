@@ -67,6 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const btnToggleAddModal = document.getElementById('btn-toggle-add-modal');
     const modalAddStudent = document.getElementById('modal-add-student');
     const formAddStudent = document.getElementById('form-add-student');
+    const btnExportDatabase = document.getElementById('btn-export-database');
 
     const modalLinkedin = document.getElementById('modal-linkedin');
     const linkedinText = document.getElementById('linkedin-text');
@@ -104,7 +105,7 @@ document.addEventListener('DOMContentLoaded', () => {
     function authenticateAdmin() {
         if (!inputAdminPin) return;
         const pin = inputAdminPin.value.trim();
-        if (pin === '123456' || pin === 'hr12026' || pin === 'hr1vietnam') {
+        if (pin === 'Hr1@1123') {
             isAdminAuthenticated = true;
             if (adminPinError) adminPinError.classList.add('hidden');
             if (adminAuthBox) adminAuthBox.classList.add('hidden');
@@ -399,9 +400,113 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    function importStudentMatrix(matrix, fileType) {
+        if (!matrix || matrix.length === 0) {
+            alert(`Tệp ${fileType} không có dữ liệu!`);
+            return;
+        }
+
+        let headerRowIndex = -1;
+        let mssvColIndex = -1, hoLotColIndex = -1, tenColIndex = -1, fullNameColIndex = -1;
+        let classColIndex = -1, facultyColIndex = -1, dateColIndex = -1;
+
+        for (let r = 0; r < Math.min(matrix.length, 30); r++) {
+            const row = matrix[r];
+            if (!row || !Array.isArray(row)) continue;
+
+            for (let c = 0; c < row.length; c++) {
+                const cell = row[c] ? row[c].toString().trim().toLowerCase() : "";
+                if (cell.includes("mssv") || cell.includes("mã sv") || cell.includes("mã sinh viên") || cell.includes("masv") || cell.includes("mã_sv") || cell === "ms sv" || cell === "mã số sv") {
+                    headerRowIndex = r;
+                    mssvColIndex = c;
+                    break;
+                }
+            }
+            if (headerRowIndex !== -1) break;
+        }
+
+        if (headerRowIndex !== -1) {
+            const headerRow = matrix[headerRowIndex];
+            for (let c = 0; c < headerRow.length; c++) {
+                if (c === mssvColIndex) continue;
+                const cell = headerRow[c] ? headerRow[c].toString().trim().toLowerCase() : "";
+                
+                if (cell.includes("họ lót") || cell.includes("họ và tên lót") || cell.includes("họ & tên lót") || cell === "họ" || cell.includes("ho lot") || cell.includes("holotsv")) {
+                    hoLotColIndex = c;
+                } else if (cell === "tên" || cell === "ten" || cell.includes("tensv") || cell.includes("tên sinh viên")) {
+                    tenColIndex = c;
+                } else if (cell.includes("họ tên") || cell.includes("họ và tên") || cell.includes("full name") || cell === "name") {
+                    fullNameColIndex = c;
+                } else if (cell.includes("lớp") || cell.includes("class") || cell.includes("malop")) {
+                    classColIndex = c;
+                } else if (cell.includes("khoa") || cell.includes("viện") || cell.includes("faculty")) {
+                    facultyColIndex = c;
+                } else if (cell.includes("ngày") || cell.includes("date") || cell.includes("tour")) {
+                    dateColIndex = c;
+                }
+            }
+        }
+
+        let addedCount = 0;
+        const startRow = headerRowIndex !== -1 ? headerRowIndex + 1 : 0;
+
+        for (let r = startRow; r < matrix.length; r++) {
+            const row = matrix[r];
+            if (!row || !Array.isArray(row)) continue;
+
+            let mssv = "", hoLot = "", ten = "", fullNameDirect = "";
+            let studentClass = "25DLQA3", faculty = "Quản trị & Du lịch HUTECH", date = "2026-03-13";
+
+            if (headerRowIndex !== -1) {
+                if (mssvColIndex !== -1 && row[mssvColIndex] !== undefined) mssv = row[mssvColIndex].toString().trim();
+                if (hoLotColIndex !== -1 && row[hoLotColIndex] !== undefined) hoLot = row[hoLotColIndex].toString().trim();
+                if (tenColIndex !== -1 && row[tenColIndex] !== undefined) ten = row[tenColIndex].toString().trim();
+                if (fullNameColIndex !== -1 && row[fullNameColIndex] !== undefined) fullNameDirect = row[fullNameColIndex].toString().trim();
+                if (classColIndex !== -1 && row[classColIndex] !== undefined) studentClass = row[classColIndex].toString().trim();
+                if (facultyColIndex !== -1 && row[facultyColIndex] !== undefined) faculty = row[facultyColIndex].toString().trim();
+                if (dateColIndex !== -1 && row[dateColIndex] !== undefined) date = row[dateColIndex].toString().trim();
+            }
+
+            let finalFullName = "";
+            if (hoLot && ten) {
+                finalFullName = `${hoLot} ${ten}`.replace(/\s+/g, ' ').trim();
+            } else if (fullNameDirect) {
+                finalFullName = fullNameDirect;
+            }
+
+            if (mssv && finalFullName && mssv.toLowerCase() !== "mssv") {
+                const existingIdx = studentDatabase.findIndex(s => s.mssv === mssv);
+                const newCertId = `HR1-HT-2026-${1000 + studentDatabase.length + 1}`;
+
+                const newObj = {
+                    mssv: mssv,
+                    name: finalFullName,
+                    class: studentClass || "25DLQA3",
+                    faculty: faculty || "Quản trị & Du lịch HUTECH",
+                    date: date || "2026-03-13",
+                    topic: "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
+                    certId: newCertId
+                };
+
+                if (existingIdx >= 0) {
+                    studentDatabase[existingIdx] = newObj;
+                } else {
+                    studentDatabase.push(newObj);
+                }
+                addedCount++;
+            }
+        }
+
+        if (addedCount > 0) {
+            alert(`✅ Đã nạp thành công ${addedCount} sinh viên từ tệp ${fileType}!`);
+            renderAdminTable();
+        } else {
+            alert("⚠️ Chưa đọc được dữ liệu. Vui lòng kiểm tra lại cấu trúc bảng!");
+        }
+    }
+
     function parseExcelOrCsvFile(file) {
         const reader = new FileReader();
-
         reader.onload = function(e) {
             try {
                 const data = new Uint8Array(e.target.result);
@@ -411,114 +516,63 @@ document.addEventListener('DOMContentLoaded', () => {
                 const worksheet = workbook.Sheets[firstSheetName];
                 const matrix = XLSX.utils.sheet_to_json(worksheet, { header: 1, defval: "" });
 
-                if (!matrix || matrix.length === 0) {
-                    alert("Tệp Excel/CSV không có dữ liệu!");
-                    return;
-                }
-
-                let headerRowIndex = -1;
-                let mssvColIndex = -1, hoLotColIndex = -1, tenColIndex = -1, fullNameColIndex = -1;
-                let classColIndex = -1, facultyColIndex = -1, dateColIndex = -1;
-
-                for (let r = 0; r < Math.min(matrix.length, 30); r++) {
-                    const row = matrix[r];
-                    if (!row || !Array.isArray(row)) continue;
-
-                    for (let c = 0; c < row.length; c++) {
-                        const cell = row[c] ? row[c].toString().trim().toLowerCase() : "";
-                        if (cell.includes("mssv") || cell.includes("mã sv") || cell.includes("mã sinh viên") || cell.includes("masv") || cell.includes("mã_sv") || cell === "ms sv") {
-                            headerRowIndex = r;
-                            mssvColIndex = c;
-                            break;
-                        }
-                    }
-                    if (headerRowIndex !== -1) break;
-                }
-
-                if (headerRowIndex !== -1) {
-                    const headerRow = matrix[headerRowIndex];
-                    for (let c = 0; c < headerRow.length; c++) {
-                        if (c === mssvColIndex) continue;
-                        const cell = headerRow[c] ? headerRow[c].toString().trim().toLowerCase() : "";
-                        
-                        if (cell.includes("họ lót") || cell.includes("họ và tên lót") || cell.includes("họ & tên lót") || cell === "họ" || cell.includes("ho lot") || cell.includes("holotsv")) {
-                            hoLotColIndex = c;
-                        } else if (cell === "tên" || cell === "ten" || cell.includes("tensv") || cell.includes("tên sinh viên")) {
-                            tenColIndex = c;
-                        } else if (cell.includes("họ tên") || cell.includes("họ và tên") || cell.includes("full name") || cell === "name") {
-                            fullNameColIndex = c;
-                        } else if (cell.includes("lớp") || cell.includes("class") || cell.includes("malop")) {
-                            classColIndex = c;
-                        } else if (cell.includes("khoa") || cell.includes("viện") || cell.includes("faculty")) {
-                            facultyColIndex = c;
-                        } else if (cell.includes("ngày") || cell.includes("date") || cell.includes("tour")) {
-                            dateColIndex = c;
-                        }
-                    }
-                }
-
-                let addedCount = 0;
-                const startRow = headerRowIndex !== -1 ? headerRowIndex + 1 : 0;
-
-                for (let r = startRow; r < matrix.length; r++) {
-                    const row = matrix[r];
-                    if (!row || !Array.isArray(row)) continue;
-
-                    let mssv = "", hoLot = "", ten = "", fullNameDirect = "";
-                    let studentClass = "25DLQA3", faculty = "Quản trị & Du lịch HUTECH", date = "2026-03-13";
-
-                    if (headerRowIndex !== -1) {
-                        if (mssvColIndex !== -1 && row[mssvColIndex]) mssv = row[mssvColIndex].toString().trim();
-                        if (hoLotColIndex !== -1 && row[hoLotColIndex]) hoLot = row[hoLotColIndex].toString().trim();
-                        if (tenColIndex !== -1 && row[tenColIndex]) ten = row[tenColIndex].toString().trim();
-                        if (fullNameColIndex !== -1 && row[fullNameColIndex]) fullNameDirect = row[fullNameColIndex].toString().trim();
-                        if (classColIndex !== -1 && row[classColIndex]) studentClass = row[classColIndex].toString().trim();
-                        if (facultyColIndex !== -1 && row[facultyColIndex]) faculty = row[facultyColIndex].toString().trim();
-                        if (dateColIndex !== -1 && row[dateColIndex]) date = row[dateColIndex].toString().trim();
-                    }
-
-                    let finalFullName = "";
-                    if (hoLot && ten) {
-                        finalFullName = `${hoLot} ${ten}`.replace(/\s+/g, ' ').trim();
-                    } else if (fullNameDirect) {
-                        finalFullName = fullNameDirect;
-                    }
-
-                    if (mssv && finalFullName && mssv.toLowerCase() !== "mssv") {
-                        const existingIdx = studentDatabase.findIndex(s => s.mssv === mssv);
-                        const newCertId = `HR1-HT-2026-${1000 + studentDatabase.length + 1}`;
-
-                        const newObj = {
-                            mssv: mssv,
-                            name: finalFullName,
-                            class: studentClass || "25DLQA3",
-                            faculty: faculty || "Quản trị & Du lịch HUTECH",
-                            date: date || "2026-03-13",
-                            topic: "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
-                            certId: newCertId
-                        };
-
-                        if (existingIdx >= 0) {
-                            studentDatabase[existingIdx] = newObj;
-                        } else {
-                            studentDatabase.push(newObj);
-                        }
-                        addedCount++;
-                    }
-                }
-
-                if (addedCount > 0) {
-                    alert(`✅ Đã nạp thành công ${addedCount} sinh viên từ tệp Excel!`);
-                    renderAdminTable();
-                } else {
-                    alert("⚠️ Chưa đọc được dữ liệu. Vui lòng kiểm tra lại cấu trúc file!");
-                }
+                importStudentMatrix(matrix, "Excel/CSV");
             } catch (err) {
-                alert("Lỗi khi đọc file Excel: " + err.message);
+                alert("Lỗi khi đọc file Excel/CSV: " + err.message);
             }
         };
-
         reader.readAsArrayBuffer(file);
+    }
+
+    function parseWordDocxFile(file) {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            const arrayBuffer = e.target.result;
+            
+            window.mammoth.convertToHtml({ arrayBuffer: arrayBuffer })
+                .then(function(result) {
+                    const html = result.value;
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(html, 'text/html');
+                    const tables = doc.querySelectorAll('table');
+                    
+                    if (tables.length === 0) {
+                        alert("Không tìm thấy bảng dữ liệu nào trong tệp Word!");
+                        return;
+                    }
+                    
+                    const matrix = [];
+                    tables.forEach(table => {
+                        const rows = table.querySelectorAll('tr');
+                        rows.forEach(row => {
+                            const cols = row.querySelectorAll('td, th');
+                            const rowData = [];
+                            cols.forEach(col => {
+                                rowData.push(col.textContent ? col.textContent.trim() : "");
+                            });
+                            matrix.push(rowData);
+                        });
+                    });
+                    
+                    importStudentMatrix(matrix, "Word (.docx)");
+                })
+                .catch(function(err) {
+                    alert("Lỗi khi giải mã tệp Word: " + err.message);
+                });
+        };
+        reader.readAsArrayBuffer(file);
+    }
+
+    function handleUploadedFile(file) {
+        if (!file) return;
+        const extension = file.name.split('.').pop().toLowerCase();
+        if (extension === 'docx') {
+            parseWordDocxFile(file);
+        } else if (extension === 'xlsx' || extension === 'xls' || extension === 'csv') {
+            parseExcelOrCsvFile(file);
+        } else {
+            alert('Chỉ hỗ trợ định dạng Excel (.xlsx, .xls), CSV (.csv) hoặc Word (.docx)!');
+        }
     }
 
     if (dropZone) {
@@ -531,13 +585,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
         dropZone.addEventListener('drop', (e) => {
             dropZone.classList.remove('dragover');
-            if (e.dataTransfer.files.length) parseExcelOrCsvFile(e.dataTransfer.files[0]);
+            if (e.dataTransfer.files.length) handleUploadedFile(e.dataTransfer.files[0]);
         });
     }
 
     if (fileUploadInput) {
         fileUploadInput.addEventListener('change', (e) => {
-            if (e.target.files.length) parseExcelOrCsvFile(e.target.files[0]);
+            if (e.target.files.length) handleUploadedFile(e.target.files[0]);
         });
     }
 
@@ -572,6 +626,19 @@ document.addEventListener('DOMContentLoaded', () => {
             modalAddStudent.classList.add('hidden');
             formAddStudent.reset();
             renderAdminTable();
+        });
+    }
+
+    if (btnExportDatabase) {
+        btnExportDatabase.addEventListener('click', () => {
+            const jsContent = `window.INITIAL_STUDENTS_DATABASE = ${JSON.stringify(studentDatabase, null, 2)};\n`;
+            const blob = new Blob([jsContent], { type: 'application/javascript;charset=utf-8;' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.setAttribute('download', 'students_data.js');
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
         });
     }
 

@@ -17,6 +17,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mammoth/1.6.0/mammoth.browser.min.js"></script>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -279,7 +280,7 @@
                 <h2>Khu Vực Quản Trị HR1Vietnam</h2>
                 <p>Nhập mã PIN bảo mật dành cho Quản trị viên HR để truy cập trang quản lý cơ sở dữ liệu.</p>
                 <div class="form-group" style="margin-top: 20px;">
-                    <input type="password" id="input-admin-pin" placeholder="Nhập mã PIN (Mặc định: 123456)..." style="text-align: center; font-size: 18px; letter-spacing: 4px;">
+                    <input type="password" id="input-admin-pin" placeholder="Nhập mã PIN bảo mật..." style="text-align: center; font-size: 18px; letter-spacing: 4px;">
                 </div>
                 <button id="btn-auth-admin" class="button primary" style="width: 100%; justify-content: center;">Đăng Nhập Quản Trị <span>↗</span></button>
                 <p id="admin-pin-error" class="hidden" style="color: var(--red); font-size: 13px; margin-top: 10px; font-weight: 600;">Mã PIN không đúng! Vui lòng thử lại.</p>
@@ -313,23 +314,26 @@
 
                 <div class="admin-card">
                     <div class="card-header">
-                        <h3>Nạp Danh Sách Điểm Danh Đợt Tour Mới (.XLSX / .XLS / .CSV)</h3>
-                        <span class="badge-free">Hỗ trợ Excel & CSV</span>
+                        <h3>Nạp Danh Sách Điểm Danh Đợt Tour Mới (Excel / Word / CSV)</h3>
+                        <span class="badge-free">Hỗ trợ Excel, Word & CSV</span>
                     </div>
 
                     <div class="upload-area" id="drop-zone">
                         <i class="fa-solid fa-cloud-arrow-up upload-icon"></i>
-                        <p class="upload-title">Kéo & Thả file Excel hoặc .CSV vào đây</p>
-                        <p class="upload-desc">Tự động nhận diện các cột: MSSV, Họ tên, Lớp, Khoa, Ngày tham gia</p>
-                        <label for="file-upload" class="button primary" style="margin: 0 auto; display: inline-flex;">Chọn File Excel Từ Máy Tính</label>
-                        <input id="file-upload" type="file" accept=".xlsx, .xls, .csv" style="display: none;">
+                        <p class="upload-title">Kéo & Thả file Excel, Word (.docx) hoặc .CSV vào đây</p>
+                        <p class="upload-desc">Tự động nhận diện các cột: MSSV, Họ tên, Lớp, Khoa, Ngày tham gia (hỗ trợ đọc bảng trong file Word)</p>
+                        <label for="file-upload" class="button primary" style="margin: 0 auto; display: inline-flex;">Chọn File Từ Máy Tính</label>
+                        <input id="file-upload" type="file" accept=".xlsx, .xls, .csv, .docx" style="display: none;">
                     </div>
                 </div>
 
                 <div class="admin-card">
                     <div class="card-header">
                         <h3>Danh Sách Sinh Viên (Bảo Mật HR Admin)</h3>
-                        <button id="btn-toggle-add-modal" class="button primary btn-sm">Thêm Thủ Công 1 Sinh Viên <span>↗</span></button>
+                        <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+                            <button id="btn-toggle-add-modal" class="button primary btn-sm">Thêm Thủ Công 1 Sinh Viên <span>↗</span></button>
+                            <button id="btn-export-database" class="button secondary btn-sm"><i class="fa-solid fa-download"></i> Xuất File CSDL (students_data.js)</button>
+                        </div>
                     </div>
 
                     <div class="table-responsive">
