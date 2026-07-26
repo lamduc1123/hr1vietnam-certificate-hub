@@ -4,7 +4,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lâm Lê Hoàng",
     "class": "25DBSA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1001"
   },
@@ -13,7 +13,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trung Kiên",
     "class": "25DBSA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1002"
   },
@@ -22,7 +22,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Đăng Khôi",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1003"
   },
@@ -31,7 +31,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Ngân",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1004"
   },
@@ -40,7 +40,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Gia Nhi",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1005"
   },
@@ -49,7 +49,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Phụng Như",
     "class": "25DBSA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1006"
   },
@@ -58,7 +58,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Phúc",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1007"
   },
@@ -67,7 +67,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Khánh Phương",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1008"
   },
@@ -76,7 +76,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Thị Nhã Phương",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1009"
   },
@@ -85,7 +85,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Đỗ Như Quỳnh",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1010"
   },
@@ -94,7 +94,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Kim San",
     "class": "25DBSA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1011"
   },
@@ -103,7 +103,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Nhật Thanh Sơn",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1012"
   },
@@ -112,7 +112,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Nguyễn Triều Vĩ",
     "class": "21DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1013"
   },
@@ -121,7 +121,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Trâm",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1014"
   },
@@ -130,7 +130,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Thư",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1015"
   },
@@ -139,7 +139,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thụy Trọng Tuyền",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1016"
   },
@@ -148,7 +148,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Thái Hồng Hạnh",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1017"
   },
@@ -157,7 +157,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Duy",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1018"
   },
@@ -166,7 +166,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Chiến Công",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1019"
   },
@@ -175,7 +175,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Thị Mai Anh",
     "class": "25DBSA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1020"
   },
@@ -184,7 +184,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phi Yến",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1021"
   },
@@ -193,7 +193,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phúc Như Ý",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1022"
   },
@@ -202,7 +202,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Khánh",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1023"
   },
@@ -211,7 +211,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Duy Khánh",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1024"
   },
@@ -220,7 +220,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Minh Trí",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1025"
   },
@@ -229,7 +229,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Võ Chí Vĩ",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1026"
   },
@@ -238,7 +238,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Tấn Hùng",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1027"
   },
@@ -247,7 +247,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Minh Hậu",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1028"
   },
@@ -256,7 +256,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Đinh Cẩm Ly",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1029"
   },
@@ -265,7 +265,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Hoàng Mai",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1030"
   },
@@ -274,7 +274,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Minh Khôi",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1031"
   },
@@ -283,7 +283,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Mai Linh",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1032"
   },
@@ -292,7 +292,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Phi Hưng",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1033"
   },
@@ -301,7 +301,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Linh Khanh",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1034"
   },
@@ -310,7 +310,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Tuấn Anh",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1035"
   },
@@ -319,7 +319,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Ngọc Hân",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1036"
   },
@@ -328,7 +328,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Vũ Linh Nguyên",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1037"
   },
@@ -337,7 +337,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đổ Thị Kim Ngọc",
     "class": "22DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1038"
   },
@@ -346,7 +346,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Khánh Ngân",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1039"
   },
@@ -355,7 +355,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Quỳnh Ngọc",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1040"
   },
@@ -364,7 +364,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Nguyên Thuấn",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1041"
   },
@@ -373,7 +373,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phú Thiên",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1042"
   },
@@ -382,7 +382,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Sang",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1043"
   },
@@ -391,7 +391,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Phúc",
     "class": "25DBSA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3009/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1044"
   },
@@ -400,7 +400,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hà Kiều Anh",
     "class": "20DQTC4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1045"
   },
@@ -409,7 +409,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Võ Kim An",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1046"
   },
@@ -418,7 +418,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lương Lê Thành Đạt",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1047"
   },
@@ -427,7 +427,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Cao Minh Anh",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1048"
   },
@@ -436,7 +436,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Kim Thoa",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1049"
   },
@@ -445,7 +445,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Thảo",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1050"
   },
@@ -454,7 +454,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Minh Thư",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1051"
   },
@@ -463,7 +463,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Ngọc Anh Thư",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1052"
   },
@@ -472,7 +472,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Bá Khôi Nguyên",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1053"
   },
@@ -481,7 +481,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quỳnh My",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1054"
   },
@@ -490,7 +490,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Tiến Minh",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1055"
   },
@@ -499,7 +499,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Lê Mai Linh",
     "class": "21DMAB6",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1056"
   },
@@ -508,7 +508,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Tuấn Khang",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1057"
   },
@@ -517,7 +517,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Lê Hải Đăng",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1058"
   },
@@ -526,7 +526,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tuấn Tuấn",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1059"
   },
@@ -535,7 +535,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Thị Cẩm Tiên",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1060"
   },
@@ -544,7 +544,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Su Bin",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1061"
   },
@@ -553,7 +553,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Gia Bảo",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1062"
   },
@@ -562,7 +562,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trần Tiến Đạt",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1063"
   },
@@ -571,7 +571,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Minh Đạt",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1064"
   },
@@ -580,7 +580,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trịnh Tấn Kiệt",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1065"
   },
@@ -589,7 +589,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Nhật Hiếu",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1066"
   },
@@ -598,7 +598,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Minh Hạnh",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1067"
   },
@@ -607,7 +607,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Kiều Tiến Hiền",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1068"
   },
@@ -616,7 +616,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phạm Hồng Thịnh",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1069"
   },
@@ -625,7 +625,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Phùng Quang Vinh",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1070"
   },
@@ -634,7 +634,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Triều Tuấn",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1071"
   },
@@ -643,7 +643,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Thái",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1072"
   },
@@ -652,7 +652,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Gia Kiệt",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1073"
   },
@@ -661,7 +661,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Ngọc Phương Linh",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1074"
   },
@@ -670,7 +670,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thiên Long",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1075"
   },
@@ -679,7 +679,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Mỹ",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1076"
   },
@@ -688,7 +688,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thị Huỳnh Như",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1077"
   },
@@ -697,7 +697,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Như",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1078"
   },
@@ -706,7 +706,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trần Quế Oanh",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1079"
   },
@@ -715,7 +715,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Cẩm Tiên",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1080"
   },
@@ -724,7 +724,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Quốc Tiến",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1081"
   },
@@ -733,7 +733,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tuấn Tú",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3010/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1082"
   },
@@ -742,7 +742,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Anh",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1083"
   },
@@ -751,7 +751,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Nguyễn Vàng Anh",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1084"
   },
@@ -760,7 +760,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Hữu Phước",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1085"
   },
@@ -769,7 +769,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Thị Kim Phúc",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1086"
   },
@@ -778,7 +778,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Văn Vĩnh Phúc",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1087"
   },
@@ -787,7 +787,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Thị Kim Oanh",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1088"
   },
@@ -796,7 +796,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Châu Mỹ Sang",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1089"
   },
@@ -805,7 +805,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hồ Thu Thủy",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1090"
   },
@@ -814,7 +814,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Trần Ngọc Thy",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1091"
   },
@@ -823,7 +823,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Nguyễn Diễm Trinh",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1092"
   },
@@ -832,7 +832,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Bảo Hân",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1093"
   },
@@ -841,7 +841,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Trần Linh Đan",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1094"
   },
@@ -850,7 +850,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trịnh Thùy Dương",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1095"
   },
@@ -859,7 +859,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Ngọc Diệp",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1096"
   },
@@ -868,7 +868,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Ngọc Thảo Linh",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1097"
   },
@@ -877,7 +877,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Khánh Linh",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1098"
   },
@@ -886,7 +886,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Ngọc Ánh Linh",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1099"
   },
@@ -895,7 +895,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Chu Gia Huy",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1100"
   },
@@ -904,7 +904,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ka Thị Mãi",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1101"
   },
@@ -913,7 +913,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trang Kiều My",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1102"
   },
@@ -922,7 +922,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Hoàng Bảo Ngọc",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1103"
   },
@@ -931,7 +931,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Thu Nguyệt",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1104"
   },
@@ -940,7 +940,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Hân",
     "class": "22DMAE2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1105"
   },
@@ -949,7 +949,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Gia Huy",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1106"
   },
@@ -958,7 +958,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trần Bảo Trâm",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1107"
   },
@@ -967,7 +967,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Quỳnh Trang",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1108"
   },
@@ -976,7 +976,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Kim Trường Thịnh",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1109"
   },
@@ -985,7 +985,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Duy Thăng",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1110"
   },
@@ -994,7 +994,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Như Thảo",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1111"
   },
@@ -1003,7 +1003,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Nhật Tiến",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1112"
   },
@@ -1012,7 +1012,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Trung Chiến",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1113"
   },
@@ -1021,7 +1021,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Duy",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1114"
   },
@@ -1030,7 +1030,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Mạnh Kính",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1115"
   },
@@ -1039,7 +1039,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lê Thành Vĩnh Khiêm",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1116"
   },
@@ -1048,7 +1048,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Anh Khoa",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1117"
   },
@@ -1057,7 +1057,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Phùng Gia Lạc",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1118"
   },
@@ -1066,7 +1066,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Nguyễn Tú Minh",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1119"
   },
@@ -1075,7 +1075,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Đức Nguyên",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1120"
   },
@@ -1084,7 +1084,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Minh Tâm",
     "class": "21DQTA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1121"
   },
@@ -1093,7 +1093,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Yến Nhi",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1122"
   },
@@ -1102,7 +1102,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Đào Hải Dương",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1123"
   },
@@ -1111,7 +1111,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Thành Đạt",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1124"
   },
@@ -1120,7 +1120,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Minh Nhật",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1125"
   },
@@ -1129,7 +1129,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Phúc Nguyên",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3011/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1126"
   },
@@ -1138,7 +1138,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Gia Nghi",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1127"
   },
@@ -1147,7 +1147,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trần Diễm My",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1128"
   },
@@ -1156,7 +1156,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Chí Cường",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1129"
   },
@@ -1165,7 +1165,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hồ Gia Bảo",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1130"
   },
@@ -1174,7 +1174,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Huy Hoàng",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1131"
   },
@@ -1183,7 +1183,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc Hân",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1132"
   },
@@ -1192,7 +1192,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Nguyễn Thanh Thảo",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1133"
   },
@@ -1201,7 +1201,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Gia Thuận",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1134"
   },
@@ -1210,7 +1210,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Ngọc Triệu Thy",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1135"
   },
@@ -1219,7 +1219,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tú Trinh",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1136"
   },
@@ -1228,7 +1228,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Nguyễn Hoàng Yến",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1137"
   },
@@ -1237,7 +1237,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Huỳnh Minh Huy",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1138"
   },
@@ -1246,7 +1246,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Thị Thu Huyền",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1139"
   },
@@ -1255,7 +1255,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Minh Khang",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1140"
   },
@@ -1264,7 +1264,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Minh Khoa",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1141"
   },
@@ -1273,7 +1273,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Nguyễn Tấn Lộc",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1142"
   },
@@ -1282,7 +1282,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Đức Duy",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1143"
   },
@@ -1291,7 +1291,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thái Huy",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1144"
   },
@@ -1300,7 +1300,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Minh Nhật",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1145"
   },
@@ -1309,7 +1309,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thị Kiều Như",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1146"
   },
@@ -1318,7 +1318,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Quỳnh Như",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1147"
   },
@@ -1327,7 +1327,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Tấn Phát",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1148"
   },
@@ -1336,7 +1336,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tô Quốc Đại",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1149"
   },
@@ -1345,7 +1345,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Long Nhật",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1150"
   },
@@ -1354,7 +1354,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trọng Nhân",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1151"
   },
@@ -1363,7 +1363,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Hiếu Nhân",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1152"
   },
@@ -1372,7 +1372,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Văn Hiến",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1153"
   },
@@ -1381,7 +1381,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Thúy Anh",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1154"
   },
@@ -1390,7 +1390,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Vũ Anh Đào",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1155"
   },
@@ -1399,7 +1399,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Thị Như Hảo",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1156"
   },
@@ -1408,7 +1408,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Quốc Thái Huy",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1157"
   },
@@ -1417,7 +1417,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Vân Hoa",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1158"
   },
@@ -1426,7 +1426,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Hưng",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1159"
   },
@@ -1435,7 +1435,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Minh Khôi",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1160"
   },
@@ -1444,7 +1444,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Minh Phú Quý",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1161"
   },
@@ -1453,7 +1453,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Nguyên Phát",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1162"
   },
@@ -1462,7 +1462,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Yến Nhi",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1163"
   },
@@ -1471,7 +1471,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Lê Yến Nhi",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1164"
   },
@@ -1480,7 +1480,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Lương Tú Quyên",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1165"
   },
@@ -1489,7 +1489,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Thanh",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1166"
   },
@@ -1498,7 +1498,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Văn Thành",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1167"
   },
@@ -1507,7 +1507,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Việt Thắng",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1168"
   },
@@ -1516,7 +1516,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Thu Trang",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1169"
   },
@@ -1525,7 +1525,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Vinh",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1170"
   },
@@ -1534,7 +1534,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Mỹ Yến",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3012/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1171"
   },
@@ -1543,7 +1543,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Xuân Hiếu",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1172"
   },
@@ -1552,7 +1552,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Khánh Hưng",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1173"
   },
@@ -1561,7 +1561,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Lê Tuấn Kiệt",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1174"
   },
@@ -1570,7 +1570,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đăng Khôi",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1175"
   },
@@ -1579,7 +1579,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Kim Loan",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1176"
   },
@@ -1588,7 +1588,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Gia Mạnh",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1177"
   },
@@ -1597,7 +1597,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Bảo Ngọc",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1178"
   },
@@ -1606,7 +1606,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trịnh Gia Phát",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1179"
   },
@@ -1615,7 +1615,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Văn Chương",
     "class": "22DMAC4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1180"
   },
@@ -1624,7 +1624,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đồng Thị Bích Diệp",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1181"
   },
@@ -1633,7 +1633,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thúy Duy",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1182"
   },
@@ -1642,7 +1642,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Thị Quỳnh Dương",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1183"
   },
@@ -1651,7 +1651,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Vũ Minh Đức",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1184"
   },
@@ -1660,7 +1660,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Văn Đức",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1185"
   },
@@ -1669,7 +1669,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Anh Đức",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1186"
   },
@@ -1678,7 +1678,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Hằng",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1187"
   },
@@ -1687,7 +1687,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Minh Châu",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1188"
   },
@@ -1696,7 +1696,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Huỳnh Thịnh Phúc",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1189"
   },
@@ -1705,7 +1705,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Trúc Quỳnh",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1190"
   },
@@ -1714,7 +1714,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Châu Thị Thanh Thư",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1191"
   },
@@ -1723,7 +1723,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Ngọc Trang",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1192"
   },
@@ -1732,7 +1732,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Giác Viên",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1193"
   },
@@ -1741,7 +1741,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Cường Quốc",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1194"
   },
@@ -1750,7 +1750,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đào Lê Minh Thy",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1195"
   },
@@ -1759,7 +1759,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thuỵ Minh Trân",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1196"
   },
@@ -1768,7 +1768,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Văn Lực",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1197"
   },
@@ -1777,7 +1777,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Mỹ Anh",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1198"
   },
@@ -1786,7 +1786,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Lê Tấn Phát",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1199"
   },
@@ -1795,7 +1795,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Nhật Minh",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1200"
   },
@@ -1804,7 +1804,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Từ Vạn Phát",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1201"
   },
@@ -1813,7 +1813,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Châu Thảo Như",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1202"
   },
@@ -1822,7 +1822,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Hồng Anh",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1203"
   },
@@ -1831,7 +1831,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Duy Khánh",
     "class": "24DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1204"
   },
@@ -1840,7 +1840,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Nguyễn Gia Bảo",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1205"
   },
@@ -1849,7 +1849,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Hoàng Gia Bảo",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1206"
   },
@@ -1858,7 +1858,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thị Thuý Kiều",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1207"
   },
@@ -1867,7 +1867,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Việt Bách",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1208"
   },
@@ -1876,7 +1876,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Gia Long",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1209"
   },
@@ -1885,7 +1885,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đắc Tài",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1210"
   },
@@ -1894,7 +1894,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tất Phát",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1211"
   },
@@ -1903,7 +1903,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thắng",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1212"
   },
@@ -1912,7 +1912,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Duy Anh",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1213"
   },
@@ -1921,7 +1921,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Nhật Minh",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1214"
   },
@@ -1930,7 +1930,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Quốc Trung",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1215"
   },
@@ -1939,7 +1939,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Minh Trâm",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3013/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1216"
   },
@@ -1948,7 +1948,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thế Duy",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1217"
   },
@@ -1957,7 +1957,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Mã Thái Bình",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1218"
   },
@@ -1966,7 +1966,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Mạnh Dũng",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1219"
   },
@@ -1975,7 +1975,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Nguyễn Gia Huy",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1220"
   },
@@ -1984,7 +1984,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đào Uyên Bảo Nhi",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1221"
   },
@@ -1993,7 +1993,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trí Thiện",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1222"
   },
@@ -2002,7 +2002,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Đức Việt",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1223"
   },
@@ -2011,7 +2011,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Gia Hiếu",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1224"
   },
@@ -2020,7 +2020,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hoàng Yến",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1225"
   },
@@ -2029,7 +2029,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Minh Thành",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1226"
   },
@@ -2038,7 +2038,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thành Lộc",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1227"
   },
@@ -2047,7 +2047,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ánh Ngọc",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1228"
   },
@@ -2056,7 +2056,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Ngọc Kiều Duyên",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1229"
   },
@@ -2065,7 +2065,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Nguyễn Thành Đạt",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1230"
   },
@@ -2074,7 +2074,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Bình An",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1231"
   },
@@ -2083,7 +2083,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Như",
     "class": "22DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1232"
   },
@@ -2092,7 +2092,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tô Mạnh",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1233"
   },
@@ -2101,7 +2101,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Ngọc Tường Vy",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1234"
   },
@@ -2110,7 +2110,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Nguyễn Phi Vũ",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1235"
   },
@@ -2119,7 +2119,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Đại Phong",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1236"
   },
@@ -2128,7 +2128,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Hiền Hưng",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1237"
   },
@@ -2137,7 +2137,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Nguyễn Tuấn Dương",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1238"
   },
@@ -2146,7 +2146,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Đinh Nhật Huy",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1239"
   },
@@ -2155,7 +2155,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tiến Đạt",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1240"
   },
@@ -2164,7 +2164,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Sơn Thành Đạt",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1241"
   },
@@ -2173,7 +2173,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Hoàng Thái An",
     "class": "19DQTC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1242"
   },
@@ -2182,7 +2182,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Bảo",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1243"
   },
@@ -2191,7 +2191,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Phúc Hoàng Thy",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1244"
   },
@@ -2200,7 +2200,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lâm Bảo Giang",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1245"
   },
@@ -2209,7 +2209,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Nhật Như Phương",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1246"
   },
@@ -2218,7 +2218,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Mai Lê Như Quỳnh",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1247"
   },
@@ -2227,7 +2227,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Mộng Cầm",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1248"
   },
@@ -2236,7 +2236,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Thị Huyền Trân",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1249"
   },
@@ -2245,7 +2245,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Ngọc Diễm",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1250"
   },
@@ -2254,7 +2254,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trịnh Thành Long",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1251"
   },
@@ -2263,7 +2263,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Ngọc Bội Linh",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1252"
   },
@@ -2272,7 +2272,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tạ Minh Tuấn",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1253"
   },
@@ -2281,7 +2281,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Quách Gia Tuệ",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1254"
   },
@@ -2290,7 +2290,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Cái Thị Mỹ Xuyến",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1255"
   },
@@ -2299,7 +2299,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Ái Liên",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1256"
   },
@@ -2308,7 +2308,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Vũ Diệu Linh",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3016/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1257"
   },
@@ -2317,7 +2317,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Hà Trang",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1258"
   },
@@ -2326,7 +2326,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Anh Thư",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1259"
   },
@@ -2335,7 +2335,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đồng Vân Thanh Vy",
     "class": "21DKQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1260"
   },
@@ -2344,7 +2344,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lý Ngọc Tường Vy",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1261"
   },
@@ -2353,7 +2353,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lê Anh Thư",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1262"
   },
@@ -2362,7 +2362,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Bá Tuấn Anh",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1263"
   },
@@ -2371,7 +2371,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Lê Ly Na",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1264"
   },
@@ -2380,7 +2380,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Thái Hồng Nhi",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1265"
   },
@@ -2389,7 +2389,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thùy Như Ý",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1266"
   },
@@ -2398,7 +2398,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Huỳnh Nhã An",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1267"
   },
@@ -2407,7 +2407,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tiến Phát",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1268"
   },
@@ -2416,7 +2416,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Xuân Phát",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1269"
   },
@@ -2425,7 +2425,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Tài",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1270"
   },
@@ -2434,7 +2434,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Quỳnh Như",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1271"
   },
@@ -2443,7 +2443,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Tấn Dũng",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1272"
   },
@@ -2452,7 +2452,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Hiếu",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1273"
   },
@@ -2461,7 +2461,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Công Đức",
     "class": "21DQTC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1274"
   },
@@ -2470,7 +2470,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Huy Hoàng",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1275"
   },
@@ -2479,7 +2479,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Ngọc Đức Duy",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1276"
   },
@@ -2488,7 +2488,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Vân Anh",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1277"
   },
@@ -2497,7 +2497,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Quốc Bảo",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1278"
   },
@@ -2506,7 +2506,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Anh Thơ",
     "class": "24DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1279"
   },
@@ -2515,7 +2515,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Thiên Hương",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1280"
   },
@@ -2524,7 +2524,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Minh Khoa",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1281"
   },
@@ -2533,7 +2533,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Lê Minh Đức",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1282"
   },
@@ -2542,7 +2542,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Chu Quang Huy",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1283"
   },
@@ -2551,7 +2551,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lưu Quang Đô",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1284"
   },
@@ -2560,7 +2560,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Kỳ Công Đạt",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1285"
   },
@@ -2569,7 +2569,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Minh Đạt",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1286"
   },
@@ -2578,7 +2578,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Quý Đôn",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1287"
   },
@@ -2587,7 +2587,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hà Vĩnh Nghi",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1288"
   },
@@ -2596,7 +2596,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Thịnh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1289"
   },
@@ -2605,7 +2605,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Thị Kim Ngân",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1290"
   },
@@ -2614,7 +2614,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Văn Thắng",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1291"
   },
@@ -2623,7 +2623,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Xuân Phát",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1292"
   },
@@ -2632,7 +2632,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trịnh Nguyễn Yến Nhi",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1293"
   },
@@ -2641,7 +2641,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Gia Nguyễn",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1294"
   },
@@ -2650,7 +2650,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thiện Thanh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1295"
   },
@@ -2659,7 +2659,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Võ Hưng Nguyên",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1296"
   },
@@ -2668,7 +2668,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Như Khả Tú",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1297"
   },
@@ -2677,7 +2677,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Văn Thái",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1298"
   },
@@ -2686,7 +2686,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Anh Quân",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1299"
   },
@@ -2695,7 +2695,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Hà Gia Minh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1300"
   },
@@ -2704,7 +2704,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lâm Thế Anh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1301"
   },
@@ -2713,7 +2713,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Mỹ Dung",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1302"
   },
@@ -2722,7 +2722,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Việt Anh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1303"
   },
@@ -2731,7 +2731,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đăng Khoa",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3017/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1304"
   },
@@ -2740,7 +2740,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trọng Lộc",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1305"
   },
@@ -2749,7 +2749,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phùng Gia Hân",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1306"
   },
@@ -2758,7 +2758,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Thu Hằng",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1307"
   },
@@ -2767,7 +2767,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lưu Nguyệt Như",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1308"
   },
@@ -2776,7 +2776,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thùy My",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1309"
   },
@@ -2785,7 +2785,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Quách Hằng Nga",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1310"
   },
@@ -2794,7 +2794,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Hồng Nhung",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1311"
   },
@@ -2803,7 +2803,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Quang Tín",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1312"
   },
@@ -2812,7 +2812,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hà Giang",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1313"
   },
@@ -2821,7 +2821,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đại Bảo",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1314"
   },
@@ -2830,7 +2830,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Anh Duy",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1315"
   },
@@ -2839,7 +2839,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Anh Vũ",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1316"
   },
@@ -2848,7 +2848,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Nguyễn Ngọc Trân",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1317"
   },
@@ -2857,7 +2857,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Xuân Vĩ",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1318"
   },
@@ -2866,7 +2866,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Khánh Vinh",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1319"
   },
@@ -2875,7 +2875,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Lê Bảo Quỳnh",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1320"
   },
@@ -2884,7 +2884,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Tuấn Phương",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1321"
   },
@@ -2893,7 +2893,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Minh Tài",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1322"
   },
@@ -2902,7 +2902,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Anh Kiệt",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1323"
   },
@@ -2911,7 +2911,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hồ Anh Thư",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1324"
   },
@@ -2920,7 +2920,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Quốc Thắng",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1325"
   },
@@ -2929,7 +2929,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Mạnh Tùng",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1326"
   },
@@ -2938,7 +2938,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hoài Thương",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1327"
   },
@@ -2947,7 +2947,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Nhật Duy",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1328"
   },
@@ -2956,7 +2956,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Trúc Đan",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1329"
   },
@@ -2965,7 +2965,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Ngô Hải Đăng",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1330"
   },
@@ -2974,7 +2974,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Hân",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1331"
   },
@@ -2983,7 +2983,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hà Huỳnh Tố Uyên",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1332"
   },
@@ -2992,7 +2992,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quang Hậu",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1333"
   },
@@ -3001,7 +3001,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Kha Đăng Khiêm",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1334"
   },
@@ -3010,7 +3010,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Nguyễn Khánh Linh",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1335"
   },
@@ -3019,7 +3019,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đình Tuấn Nghĩa",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1336"
   },
@@ -3028,7 +3028,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Mai Thảo",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1337"
   },
@@ -3037,7 +3037,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Thùy Trang",
     "class": "24DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1338"
   },
@@ -3046,7 +3046,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Bảo Trâm",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1339"
   },
@@ -3055,7 +3055,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Anh Tú",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1340"
   },
@@ -3064,7 +3064,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Gia Bảo",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1341"
   },
@@ -3073,7 +3073,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Mai Quốc Bảo",
     "class": "25DTHB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1342"
   },
@@ -3082,7 +3082,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Đình Chí",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1343"
   },
@@ -3091,7 +3091,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Hữu Phong",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1344"
   },
@@ -3100,7 +3100,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1345"
   },
@@ -3109,7 +3109,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Minh Ngọc",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1346"
   },
@@ -3118,7 +3118,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Nhựt",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1347"
   },
@@ -3127,7 +3127,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Cẩm Tú",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1348"
   },
@@ -3136,7 +3136,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Anh Sử",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1349"
   },
@@ -3145,7 +3145,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trịnh Minh Toàn",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3018/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1350"
   },
@@ -3154,7 +3154,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Trúc Ly",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1351"
   },
@@ -3163,7 +3163,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Hiếu Thuận",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1352"
   },
@@ -3172,7 +3172,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Phương Vy",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1353"
   },
@@ -3181,7 +3181,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thành Vinh",
     "class": "22DQTC6",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1354"
   },
@@ -3190,7 +3190,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Tấn Phát",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1355"
   },
@@ -3199,7 +3199,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lưu Gia Hân",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1356"
   },
@@ -3208,7 +3208,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đặng Gia Hân",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1357"
   },
@@ -3217,7 +3217,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thành Đạt",
     "class": "23DQTB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1358"
   },
@@ -3226,7 +3226,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Tấn Phát",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1359"
   },
@@ -3235,7 +3235,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Ngọc Ánh Linh",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1360"
   },
@@ -3244,7 +3244,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Kim Khănh Băng",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1361"
   },
@@ -3253,7 +3253,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Anh",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1362"
   },
@@ -3262,7 +3262,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Nguyễn Tiến Đạt",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1363"
   },
@@ -3271,7 +3271,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Đăng Hoàng",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1364"
   },
@@ -3280,7 +3280,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Nhân",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1365"
   },
@@ -3289,7 +3289,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Hiếu Nghĩa",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1366"
   },
@@ -3298,7 +3298,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Thị Thanh Danh",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1367"
   },
@@ -3307,7 +3307,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Gia Huy",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1368"
   },
@@ -3316,7 +3316,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Ngọc Cát Tiên",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1369"
   },
@@ -3325,7 +3325,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thanh Phong",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1370"
   },
@@ -3334,7 +3334,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nhâm Thị Ánh Phương",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1371"
   },
@@ -3343,7 +3343,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Luân",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1372"
   },
@@ -3352,7 +3352,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Dũng",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1373"
   },
@@ -3361,7 +3361,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Sang",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1374"
   },
@@ -3370,7 +3370,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Hoàng Thái Bảo",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1375"
   },
@@ -3379,7 +3379,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Trọng Tuấn Anh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1376"
   },
@@ -3388,7 +3388,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thái Hoà",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1377"
   },
@@ -3397,7 +3397,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Ngọc Ánh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1378"
   },
@@ -3406,7 +3406,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Giang Thanh Tâm",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1379"
   },
@@ -3415,7 +3415,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tạ Thị Thiên Thanh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1380"
   },
@@ -3424,7 +3424,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Minh Thành",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1381"
   },
@@ -3433,7 +3433,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trang Trần Thành Thịnh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1382"
   },
@@ -3442,7 +3442,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Huỳnh Anh Tuấn",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1383"
   },
@@ -3451,7 +3451,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Hoàng Phúc",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1384"
   },
@@ -3460,7 +3460,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Hữu Phước",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1385"
   },
@@ -3469,7 +3469,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trọng Phát",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1386"
   },
@@ -3478,7 +3478,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Phú",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1387"
   },
@@ -3487,7 +3487,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Trần Tấn Nguyên",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1388"
   },
@@ -3496,7 +3496,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phi Vân",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1389"
   },
@@ -3505,7 +3505,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Lê Liêm Trực",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1390"
   },
@@ -3514,7 +3514,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Thị Phương Trinh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1391"
   },
@@ -3523,7 +3523,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Quốc Huy",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1392"
   },
@@ -3532,7 +3532,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Quách Bùi Minh Hoàng",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1393"
   },
@@ -3541,7 +3541,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Lê Hoàng Nam",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1394"
   },
@@ -3550,7 +3550,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Chí Hiếu",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1395"
   },
@@ -3559,7 +3559,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Quang Dũng",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3019/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1396"
   },
@@ -3568,7 +3568,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huang Jin Yi",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1397"
   },
@@ -3577,7 +3577,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thành Nhân",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1398"
   },
@@ -3586,7 +3586,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Đông Quân",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1399"
   },
@@ -3595,7 +3595,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đức Huy",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1400"
   },
@@ -3604,7 +3604,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Công Danh",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1401"
   },
@@ -3613,7 +3613,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Lê Trường Hảo",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1402"
   },
@@ -3622,7 +3622,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Tú Quyên",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1403"
   },
@@ -3631,7 +3631,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Quốc Vinh",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1404"
   },
@@ -3640,7 +3640,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Phương Thảo",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1405"
   },
@@ -3649,7 +3649,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Bảo Anh Thư",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1406"
   },
@@ -3658,7 +3658,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Tấn Tài",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1407"
   },
@@ -3667,7 +3667,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Mỹ Duyên",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1408"
   },
@@ -3676,7 +3676,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Kiến An",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1409"
   },
@@ -3685,7 +3685,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Bảo",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1410"
   },
@@ -3694,7 +3694,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Tiến Anh",
     "class": "23DQTB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1411"
   },
@@ -3703,7 +3703,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Khánh Vân",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1412"
   },
@@ -3712,7 +3712,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Hồng Lê",
     "class": "23DQTA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1413"
   },
@@ -3721,7 +3721,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Xuân Mỹ",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1414"
   },
@@ -3730,7 +3730,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Thảo Trâm",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1415"
   },
@@ -3739,7 +3739,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Quang Lợi",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1416"
   },
@@ -3748,7 +3748,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Bảo Hân",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1417"
   },
@@ -3757,7 +3757,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Thùy Dương",
     "class": "21DMAA6",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1418"
   },
@@ -3766,7 +3766,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Đặng Duy Phúc",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1419"
   },
@@ -3775,7 +3775,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đào Duy Hưng",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1420"
   },
@@ -3784,7 +3784,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Thị Mai Sim",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1421"
   },
@@ -3793,7 +3793,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Bảo Gia Quỳnh",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1422"
   },
@@ -3802,7 +3802,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Bích Tiên",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1423"
   },
@@ -3811,7 +3811,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Quốc Phú",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1424"
   },
@@ -3820,7 +3820,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Thị Cẩm Nhung",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1425"
   },
@@ -3829,7 +3829,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hồng Nhi",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1426"
   },
@@ -3838,7 +3838,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Kiều Ngọc Xuân Anh",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1427"
   },
@@ -3847,7 +3847,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng An",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1428"
   },
@@ -3856,7 +3856,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Thảo",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1429"
   },
@@ -3865,7 +3865,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Nguyễn Hoàng Uyên",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1430"
   },
@@ -3874,7 +3874,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Thị Thảo Trinh",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1431"
   },
@@ -3883,7 +3883,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thị Ý Nhi",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1432"
   },
@@ -3892,7 +3892,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Trần Duy Khanh",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1433"
   },
@@ -3901,7 +3901,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tuấn Kiệt",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1434"
   },
@@ -3910,7 +3910,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Bá Khải",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3020/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1435"
   },
@@ -3919,7 +3919,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Phước",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1436"
   },
@@ -3928,7 +3928,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Quang Sang",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1437"
   },
@@ -3937,7 +3937,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Ngọc Thạch",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1438"
   },
@@ -3946,7 +3946,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Trọng Thành",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1439"
   },
@@ -3955,7 +3955,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Đức Huy",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1440"
   },
@@ -3964,7 +3964,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Thị Kim Huyền",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1441"
   },
@@ -3973,7 +3973,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Thế Kiệt",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1442"
   },
@@ -3982,7 +3982,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Hoàng Anh",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1443"
   },
@@ -3991,7 +3991,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Huỳnh Đức Ngọc",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1444"
   },
@@ -4000,7 +4000,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Nhật Anh",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1445"
   },
@@ -4009,7 +4009,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Tuyết Nhi",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1446"
   },
@@ -4018,7 +4018,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Tuyết Nhi",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1447"
   },
@@ -4027,7 +4027,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Thủy",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1448"
   },
@@ -4036,7 +4036,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Quỳnh Thy",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1449"
   },
@@ -4045,7 +4045,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Kiều Vy",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1450"
   },
@@ -4054,7 +4054,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Hân",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1451"
   },
@@ -4063,7 +4063,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thúy Ngân",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1452"
   },
@@ -4072,7 +4072,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hoài Thiện",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1453"
   },
@@ -4081,7 +4081,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đồng Trương Nhân Thiên",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1454"
   },
@@ -4090,7 +4090,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Nguyễn Thanh Thảo",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1455"
   },
@@ -4099,7 +4099,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đình Duy",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1456"
   },
@@ -4108,7 +4108,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Doãn Ngọc Thanh Bảo",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1457"
   },
@@ -4117,7 +4117,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lâm Kiến Hào",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1458"
   },
@@ -4126,7 +4126,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Công Phát",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1459"
   },
@@ -4135,7 +4135,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc Ánh",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1460"
   },
@@ -4144,7 +4144,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Công Chung",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1461"
   },
@@ -4153,7 +4153,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Nguyệt Dung",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1462"
   },
@@ -4162,7 +4162,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Khánh Đăng",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1463"
   },
@@ -4171,7 +4171,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Trúc",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1464"
   },
@@ -4180,7 +4180,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Minh Toàn",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1465"
   },
@@ -4189,7 +4189,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Hữu Tài",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1466"
   },
@@ -4198,7 +4198,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Hồng Ngọc",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1467"
   },
@@ -4207,7 +4207,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Nữ Như Quỳnh",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1468"
   },
@@ -4216,7 +4216,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Quang Trí",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1469"
   },
@@ -4225,7 +4225,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lâm Quốc Thịnh",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1470"
   },
@@ -4234,7 +4234,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Thị Minh Thoa",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1471"
   },
@@ -4243,7 +4243,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Ngọc Thảo Linh",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1472"
   },
@@ -4252,7 +4252,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hoà Linh",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1473"
   },
@@ -4261,7 +4261,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Gia Khiêm",
     "class": "24DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1474"
   },
@@ -4270,7 +4270,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Nhật Quyên",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1475"
   },
@@ -4279,7 +4279,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thị Như Ý",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1476"
   },
@@ -4288,7 +4288,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Nhã",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1477"
   },
@@ -4297,7 +4297,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Thị Quỳnh Như",
     "class": "22DMAD4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1478"
   },
@@ -4306,7 +4306,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Quách Văn Phú",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1479"
   },
@@ -4315,7 +4315,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tống Hữu Đức",
     "class": "21DQTD3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1480"
   },
@@ -4324,7 +4324,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Tăng Thanh Thiệu",
     "class": "25DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3023/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1481"
   },
@@ -4333,7 +4333,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thành Long",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1482"
   },
@@ -4342,7 +4342,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đức Hoàng Long",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1483"
   },
@@ -4351,7 +4351,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Biện Đặng Minh Quân",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1484"
   },
@@ -4360,7 +4360,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thành Nhân",
     "class": "25DLQB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1485"
   },
@@ -4369,7 +4369,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bao Phương Trang",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1486"
   },
@@ -4378,7 +4378,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Sử Đình Tuấn",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1487"
   },
@@ -4387,7 +4387,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Ngọc Khoa",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1488"
   },
@@ -4396,7 +4396,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Khả Tuyên",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1489"
   },
@@ -4405,7 +4405,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đức Đại Nghĩa",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1490"
   },
@@ -4414,7 +4414,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Bình Nguyên",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1491"
   },
@@ -4423,7 +4423,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Hải Đăng",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1492"
   },
@@ -4432,7 +4432,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thế Đông",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1493"
   },
@@ -4441,7 +4441,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Minh Hiển",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1494"
   },
@@ -4450,7 +4450,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Quốc Thành",
     "class": "25DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1495"
   },
@@ -4459,7 +4459,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Bình An",
     "class": "25DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1496"
   },
@@ -4468,7 +4468,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Anh Hiếu",
     "class": "25DQTA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1497"
   },
@@ -4477,7 +4477,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Long Chương",
     "class": "25DNLA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3024/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1498"
   },
@@ -4486,7 +4486,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quyết Thắng",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1499"
   },
@@ -4495,7 +4495,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Quốc Cường",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1500"
   },
@@ -4504,7 +4504,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Xuân Hoà",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1501"
   },
@@ -4513,7 +4513,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Tiến Phát",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1502"
   },
@@ -4522,7 +4522,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quỳnh Chi",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1503"
   },
@@ -4531,7 +4531,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Như Bảo Ngọc",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1504"
   },
@@ -4540,7 +4540,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Vũ Khang",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1505"
   },
@@ -4549,7 +4549,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thiên Hùng",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1506"
   },
@@ -4558,7 +4558,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thanh Trúc",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1507"
   },
@@ -4567,7 +4567,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thành Tài",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1508"
   },
@@ -4576,7 +4576,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trung Tín",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1509"
   },
@@ -4585,7 +4585,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Lê Hoàng Thiện",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1510"
   },
@@ -4594,7 +4594,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Thiện",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1511"
   },
@@ -4603,7 +4603,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Ngọc Quỳnh Như",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1512"
   },
@@ -4612,7 +4612,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Phương Nghi",
     "class": "23DLQA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1513"
   },
@@ -4621,7 +4621,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Hoài Linh",
     "class": "22DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1514"
   },
@@ -4630,7 +4630,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Đình Lương",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1515"
   },
@@ -4639,7 +4639,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Ngọc Diệp",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1516"
   },
@@ -4648,7 +4648,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Huỳnh Hương",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1517"
   },
@@ -4657,7 +4657,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Phú",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1518"
   },
@@ -4666,7 +4666,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Châu Anh",
     "class": "22DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3025/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1519"
   },
@@ -4675,7 +4675,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tô Hoàng Khải",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1520"
   },
@@ -4684,7 +4684,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phước Huy",
     "class": "22DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1521"
   },
@@ -4693,7 +4693,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Công Huy Hoàng",
     "class": "25DBSA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1522"
   },
@@ -4702,7 +4702,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Nguyễn Minh Đức",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1523"
   },
@@ -4711,7 +4711,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Bình Dương",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1524"
   },
@@ -4720,7 +4720,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc Trâm",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1525"
   },
@@ -4729,7 +4729,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Bảo Trâm",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1526"
   },
@@ -4738,7 +4738,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Ngọc Khánh Thy",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1527"
   },
@@ -4747,7 +4747,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Thiện",
     "class": "25DBSA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1528"
   },
@@ -4756,7 +4756,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Khánh Toàn",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1529"
   },
@@ -4765,7 +4765,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Như Quỳnh",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1530"
   },
@@ -4774,7 +4774,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc Quyên",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1531"
   },
@@ -4783,7 +4783,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thiện Nhân",
     "class": "25DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1532"
   },
@@ -4792,7 +4792,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Nhật Nam",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1533"
   },
@@ -4801,7 +4801,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tấn Trung",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1534"
   },
@@ -4810,7 +4810,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Hải Triều",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1535"
   },
@@ -4819,7 +4819,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Thị Bích Ngọc",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1536"
   },
@@ -4828,7 +4828,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Vũ Long",
     "class": "25DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1537"
   },
@@ -4837,7 +4837,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Văn Tiến",
     "class": "25DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1538"
   },
@@ -4846,7 +4846,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thị Mai Anh",
     "class": "25DLQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 – 17:3026/03/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1539"
   },
@@ -4855,7 +4855,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Đăng Gia Bảo",
     "class": "22DQTA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1540"
   },
@@ -4864,7 +4864,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Thị Thuỳ Dung",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1541"
   },
@@ -4873,7 +4873,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Lâm Chí Dzĩnh",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1542"
   },
@@ -4882,7 +4882,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đình Hiển",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1543"
   },
@@ -4891,7 +4891,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Hoa",
     "class": "22DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1544"
   },
@@ -4900,7 +4900,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Ngọc Huyền",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1545"
   },
@@ -4909,7 +4909,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Thanh Huyền",
     "class": "22DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1546"
   },
@@ -4918,7 +4918,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Quốc Khánh",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1547"
   },
@@ -4927,7 +4927,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thành Luân",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1548"
   },
@@ -4936,7 +4936,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Yến Nhi",
     "class": "22DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1549"
   },
@@ -4945,7 +4945,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Quỳnh Như",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1550"
   },
@@ -4954,7 +4954,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lưu Hùng Phát",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1551"
   },
@@ -4963,7 +4963,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Đình Phước",
     "class": "22DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1552"
   },
@@ -4972,7 +4972,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Liền Phước",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1553"
   },
@@ -4981,7 +4981,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Mai Phương",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1554"
   },
@@ -4990,7 +4990,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đình Bảo Quang",
     "class": "22DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1555"
   },
@@ -4999,7 +4999,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Bạch Diệu Quy",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1556"
   },
@@ -5008,7 +5008,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Thị Trang",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1557"
   },
@@ -5017,7 +5017,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Mỹ Uy",
     "class": "24DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1558"
   },
@@ -5026,7 +5026,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Châu Cát Tường Vy",
     "class": "22DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1559"
   },
@@ -5035,7 +5035,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phong Danh",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1560"
   },
@@ -5044,7 +5044,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quang Dũng",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1561"
   },
@@ -5053,7 +5053,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Bảo Duy",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1562"
   },
@@ -5062,7 +5062,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Thành Đạt",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1563"
   },
@@ -5071,7 +5071,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Hạnh",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1564"
   },
@@ -5080,7 +5080,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Đỗ Hoàng",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1565"
   },
@@ -5089,7 +5089,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thu Hường",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1566"
   },
@@ -5098,7 +5098,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hồng Phương Knul",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1567"
   },
@@ -5107,7 +5107,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Đăng Khoa",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1568"
   },
@@ -5116,7 +5116,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Triệu Hoài Nam",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1569"
   },
@@ -5125,7 +5125,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Nga",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1570"
   },
@@ -5134,7 +5134,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thảo Nguyên",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1571"
   },
@@ -5143,7 +5143,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thanh Tùng",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1572"
   },
@@ -5152,7 +5152,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Nguyễn Duy Thái",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1573"
   },
@@ -5161,7 +5161,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Phương Thảo",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1574"
   },
@@ -5170,7 +5170,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lê Trang Thảo",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1575"
   },
@@ -5179,7 +5179,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hồng Thắm",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1576"
   },
@@ -5188,7 +5188,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thành Thịnh",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1577"
   },
@@ -5197,7 +5197,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Phương Trinh",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1578"
   },
@@ -5206,7 +5206,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tuyết Trinh",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1579"
   },
@@ -5215,7 +5215,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ung Ngọc Trinh",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1580"
   },
@@ -5224,7 +5224,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Nhật Trường",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1581"
   },
@@ -5233,7 +5233,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Quang Tịnh Văn",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3018/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1582"
   },
@@ -5242,7 +5242,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thế Bảo",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1583"
   },
@@ -5251,7 +5251,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc Bích",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1584"
   },
@@ -5260,7 +5260,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Hoàng Duy",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1585"
   },
@@ -5269,7 +5269,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lê Ngọc Hiền",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1586"
   },
@@ -5278,7 +5278,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thúy Huỳnh",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1587"
   },
@@ -5287,7 +5287,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Tuấn Kiệt",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1588"
   },
@@ -5296,7 +5296,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Anh Kiệt",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1589"
   },
@@ -5305,7 +5305,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Văn Kiệt",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1590"
   },
@@ -5314,7 +5314,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Anh Khoa",
     "class": "22DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1591"
   },
@@ -5323,7 +5323,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Nguyễn Yến Khoa",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1592"
   },
@@ -5332,7 +5332,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Công Khuy",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1593"
   },
@@ -5341,7 +5341,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thùy Linh",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1594"
   },
@@ -5350,7 +5350,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Mậu Bảo Long",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1595"
   },
@@ -5359,7 +5359,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Cẩm Ly",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1596"
   },
@@ -5368,7 +5368,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Nguyễn Trúc Ngân",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1597"
   },
@@ -5377,7 +5377,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Kim Ngân",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1598"
   },
@@ -5386,7 +5386,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Mỹ Quyên",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1599"
   },
@@ -5395,7 +5395,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Vũ Trang Thanh",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1600"
   },
@@ -5404,7 +5404,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Kiều Võ Anh Thư",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1601"
   },
@@ -5413,7 +5413,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trịnh Huyền Trang",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1602"
   },
@@ -5422,7 +5422,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thanh Nhã Uyên",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1603"
   },
@@ -5431,7 +5431,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Ái Vy",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1604"
   },
@@ -5440,7 +5440,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Như Ý",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1605"
   },
@@ -5449,7 +5449,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Thị Như Ái",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1606"
   },
@@ -5458,7 +5458,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Nguyễn Quốc An",
     "class": "22DQTC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1607"
   },
@@ -5467,7 +5467,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Sỹ Hoàng Anh",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1608"
   },
@@ -5476,7 +5476,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Duy Bảo",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1609"
   },
@@ -5485,7 +5485,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Diệp Phương Đoan",
     "class": "22DQTD3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1610"
   },
@@ -5494,7 +5494,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Thị Ngọc Hân",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1611"
   },
@@ -5503,7 +5503,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Ngọc Huy",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1612"
   },
@@ -5512,7 +5512,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Hoàng Khải",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1613"
   },
@@ -5521,7 +5521,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Minh Khánh",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1614"
   },
@@ -5530,7 +5530,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Triều Nam",
     "class": "22DQTB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1615"
   },
@@ -5539,7 +5539,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Mai Kim Ngân",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1616"
   },
@@ -5548,7 +5548,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Thị Yến Nhi",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1617"
   },
@@ -5557,7 +5557,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Yến Nhi",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1618"
   },
@@ -5566,7 +5566,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Hoàng Phúc",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1619"
   },
@@ -5575,7 +5575,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Tiểu Phụng",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1620"
   },
@@ -5584,7 +5584,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Huy Quân",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1621"
   },
@@ -5593,7 +5593,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thái Tài",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1622"
   },
@@ -5602,7 +5602,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Diễm Thuý",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1623"
   },
@@ -5611,7 +5611,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Thị Ngọc Trâm",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1624"
   },
@@ -5620,7 +5620,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Làu Tuyết Trân",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1625"
   },
@@ -5629,7 +5629,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hạ Minh Trí",
     "class": "22DQTC5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1626"
   },
@@ -5638,7 +5638,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Nhã Uyên",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1627"
   },
@@ -5647,7 +5647,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Nguyễn Tường Vy",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1628"
   },
@@ -5656,7 +5656,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trịnh Hồng Yến",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3019/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1629"
   },
@@ -5665,7 +5665,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Khắc Bé",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1630"
   },
@@ -5674,7 +5674,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Văn Ngọc Minh Châu",
     "class": "22DKQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1631"
   },
@@ -5683,7 +5683,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Duy",
     "class": "23DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1632"
   },
@@ -5692,7 +5692,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lại Thành Đạt",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1633"
   },
@@ -5701,7 +5701,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thùy Giang",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1634"
   },
@@ -5710,7 +5710,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Anh Hào",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1635"
   },
@@ -5719,7 +5719,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Minh Khang",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1636"
   },
@@ -5728,7 +5728,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Khang",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1637"
   },
@@ -5737,7 +5737,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoài Châm Khanh",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1638"
   },
@@ -5746,7 +5746,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thùy Linh",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1639"
   },
@@ -5755,7 +5755,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Khánh Mai",
     "class": "22DMAE1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1640"
   },
@@ -5764,7 +5764,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng My",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1641"
   },
@@ -5773,7 +5773,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Kim Ngân",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1642"
   },
@@ -5782,7 +5782,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Thảo Nguyên",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1643"
   },
@@ -5791,7 +5791,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thuỵ Loan Nhi",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1644"
   },
@@ -5800,7 +5800,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Quỳnh Như",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1645"
   },
@@ -5809,7 +5809,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Tuệ San",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1646"
   },
@@ -5818,7 +5818,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Văn Tiến",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1647"
   },
@@ -5827,7 +5827,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Huỳnh Hữu Toàn",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1648"
   },
@@ -5836,7 +5836,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Cảnh Thuận",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1649"
   },
@@ -5845,7 +5845,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Thức",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1650"
   },
@@ -5854,7 +5854,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Huỳnh Hoàng Trinh",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1651"
   },
@@ -5863,7 +5863,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tạ Lê Khánh Uyên",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1652"
   },
@@ -5872,7 +5872,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trung Đức",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1653"
   },
@@ -5881,7 +5881,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Trà Giang",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1654"
   },
@@ -5890,7 +5890,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Văn Hậu",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1655"
   },
@@ -5899,7 +5899,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Cao Lê Ngọc Hoa",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1656"
   },
@@ -5908,7 +5908,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Nguyệt Hoa",
     "class": "21DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1657"
   },
@@ -5917,7 +5917,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Tỷ Hoa",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1658"
   },
@@ -5926,7 +5926,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Trung Kiên",
     "class": "24DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1659"
   },
@@ -5935,7 +5935,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tạ Minh Khang",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1660"
   },
@@ -5944,7 +5944,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Diệu Linh",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1661"
   },
@@ -5953,7 +5953,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Quang Linh",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1662"
   },
@@ -5962,7 +5962,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Gia Lộc",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1663"
   },
@@ -5971,7 +5971,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Duy Lộc",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1664"
   },
@@ -5980,7 +5980,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Kim Mỹ",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1665"
   },
@@ -5989,7 +5989,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Trúc Ny",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1666"
   },
@@ -5998,7 +5998,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Khánh Nguyên",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1667"
   },
@@ -6007,7 +6007,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Yến Nhi",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1668"
   },
@@ -6016,7 +6016,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Nguyễn Nhật Tân",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1669"
   },
@@ -6025,7 +6025,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Minh Toàn",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1670"
   },
@@ -6034,7 +6034,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Kim Tuyền",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1671"
   },
@@ -6043,7 +6043,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Nữ Bảo Trâm",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1672"
   },
@@ -6052,7 +6052,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Vũ Trí",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1673"
   },
@@ -6061,7 +6061,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Hoàng Xuân Trúc",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1674"
   },
@@ -6070,7 +6070,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Khưu Phan Bích Uyên",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1675"
   },
@@ -6079,7 +6079,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Tường Vy",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1676"
   },
@@ -6088,7 +6088,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đoàn Như Yến",
     "class": "20DQTA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3020/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1677"
   },
@@ -6097,7 +6097,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Ngọc An",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1678"
   },
@@ -6106,7 +6106,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Huỳnh Du",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1679"
   },
@@ -6115,7 +6115,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đổng Quốc Duy",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1680"
   },
@@ -6124,7 +6124,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Đạt",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1681"
   },
@@ -6133,7 +6133,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trịnh Đinh Tiến Đạt",
     "class": "20DQTC5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1682"
   },
@@ -6142,7 +6142,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Ngân Hà",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1683"
   },
@@ -6151,7 +6151,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Thị Bích Hằng",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1684"
   },
@@ -6160,7 +6160,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Hiền",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1685"
   },
@@ -6169,7 +6169,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Mạnh Hùng",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1686"
   },
@@ -6178,7 +6178,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Khoa",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1687"
   },
@@ -6187,7 +6187,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Ánh Khôi",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1688"
   },
@@ -6196,7 +6196,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trúc Mai",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1689"
   },
@@ -6205,7 +6205,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hiếu Ngân",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1690"
   },
@@ -6214,7 +6214,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ông Chí Nguyên",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1691"
   },
@@ -6223,7 +6223,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thành Phố",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1692"
   },
@@ -6232,7 +6232,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Thị Thu Phương",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1693"
   },
@@ -6241,7 +6241,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Thùy Quyên",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1694"
   },
@@ -6250,7 +6250,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Minh Thành",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1695"
   },
@@ -6259,7 +6259,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Minh Thơ",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1696"
   },
@@ -6268,7 +6268,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị An Thư",
     "class": "21DNLA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1697"
   },
@@ -6277,7 +6277,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Xuân Thy",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1698"
   },
@@ -6286,7 +6286,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hà Trần Bảo Trân",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1699"
   },
@@ -6295,7 +6295,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quân Vũ",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1700"
   },
@@ -6304,7 +6304,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Ngọc Đức Anh",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1701"
   },
@@ -6313,7 +6313,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Thanh Duy",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1702"
   },
@@ -6322,7 +6322,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Huy",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1703"
   },
@@ -6331,7 +6331,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Quang Huy",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1704"
   },
@@ -6340,7 +6340,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Lâm",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1705"
   },
@@ -6349,7 +6349,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Nguyễn Minh Lâm",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1706"
   },
@@ -6358,7 +6358,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Nhật Nam",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1707"
   },
@@ -6367,7 +6367,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "La Gia Nghi",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1708"
   },
@@ -6376,7 +6376,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Lâm Bảo Nhi",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1709"
   },
@@ -6385,7 +6385,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Thị Kiều Oanh",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1710"
   },
@@ -6394,7 +6394,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Phạm Tuấn Phong",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1711"
   },
@@ -6403,7 +6403,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hỷ Ngọc Quyên",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1712"
   },
@@ -6412,7 +6412,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Như Quỳnh",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1713"
   },
@@ -6421,7 +6421,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Ngọc Hà Tiên",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1714"
   },
@@ -6430,7 +6430,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tống Văn Hữu Tiến",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1715"
   },
@@ -6439,7 +6439,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Quốc Toàn",
     "class": "24DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1716"
   },
@@ -6448,7 +6448,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Anh Tuấn",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1717"
   },
@@ -6457,7 +6457,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Tấn Thành",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1718"
   },
@@ -6466,7 +6466,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Thị Thu Thảo",
     "class": "23DMAA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1719"
   },
@@ -6475,7 +6475,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Nguyễn Minh Thư",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3021/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1720"
   },
@@ -6484,7 +6484,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Thái Lê Thị Ngọc Bích",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1721"
   },
@@ -6493,7 +6493,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Huỳnh Thảo Chăm",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1722"
   },
@@ -6502,7 +6502,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thanh Chúc",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1723"
   },
@@ -6511,7 +6511,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đào Thị Hạnh",
     "class": "22DMAE2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1724"
   },
@@ -6520,7 +6520,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nông Thị Mỹ Hạnh",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1725"
   },
@@ -6529,7 +6529,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Thị Thanh Hằng",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1726"
   },
@@ -6538,7 +6538,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Thị Mỹ Hiền",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1727"
   },
@@ -6547,7 +6547,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Chu Tiến Lân",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1728"
   },
@@ -6556,7 +6556,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hà Tuyết Loan",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1729"
   },
@@ -6565,7 +6565,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Ngọc Phát",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1730"
   },
@@ -6574,7 +6574,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Văn Phong",
     "class": "22DQTD3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1731"
   },
@@ -6583,7 +6583,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Minh Phong",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1732"
   },
@@ -6592,7 +6592,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tăng Hòa Phúc",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1733"
   },
@@ -6601,7 +6601,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Nguyễn Kiều Phương",
     "class": "24DKQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1734"
   },
@@ -6610,7 +6610,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Mỹ Phương",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1735"
   },
@@ -6619,7 +6619,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Bích Phượng",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1736"
   },
@@ -6628,7 +6628,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tiêu Khánh Quỳnh",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1737"
   },
@@ -6637,7 +6637,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Khánh Khải Tiên",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1738"
   },
@@ -6646,7 +6646,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Thu Thuỷ",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1739"
   },
@@ -6655,7 +6655,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Thị Phương Thùy",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1740"
   },
@@ -6664,7 +6664,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Trần Xuân Trúc",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1741"
   },
@@ -6673,7 +6673,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thanh Trúc",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1742"
   },
@@ -6682,7 +6682,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vương Quang Vinh",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1743"
   },
@@ -6691,7 +6691,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Tường Vy",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1744"
   },
@@ -6700,7 +6700,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đới Sỹ Anh",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1745"
   },
@@ -6709,7 +6709,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Nguyễn Mai Anh",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1746"
   },
@@ -6718,7 +6718,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hà Anh",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1747"
   },
@@ -6727,7 +6727,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trang Xuân Bách",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1748"
   },
@@ -6736,7 +6736,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thái Din",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1749"
   },
@@ -6745,7 +6745,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Thùy Dương",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1750"
   },
@@ -6754,7 +6754,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Thành Đạt",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1751"
   },
@@ -6763,7 +6763,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Mai Nguyễn Ngọc Hải",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1752"
   },
@@ -6772,7 +6772,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Điền Hiền Hậu",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1753"
   },
@@ -6781,7 +6781,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Văn Minh Hoàng",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1754"
   },
@@ -6790,7 +6790,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Nhật Huy",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1755"
   },
@@ -6799,7 +6799,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thiên Hương",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1756"
   },
@@ -6808,7 +6808,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Châu Kiệt",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1757"
   },
@@ -6817,7 +6817,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Bá Khải",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1758"
   },
@@ -6826,7 +6826,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Mỹ Linh",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1759"
   },
@@ -6835,7 +6835,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Loan",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1760"
   },
@@ -6844,7 +6844,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Diệu Khánh Ly",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1761"
   },
@@ -6853,7 +6853,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hà Tú Nhi",
     "class": "24DKQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1762"
   },
@@ -6862,7 +6862,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Thị Ngọc Phường",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1763"
   },
@@ -6871,7 +6871,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Phương Thảo",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1764"
   },
@@ -6880,7 +6880,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Thị Ngọc Thùy",
     "class": "22DMAE2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1765"
   },
@@ -6889,7 +6889,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thị Anh Thư",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1766"
   },
@@ -6898,7 +6898,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Vân",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1767"
   },
@@ -6907,7 +6907,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thị Phương Yến",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3022/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1768"
   },
@@ -6916,7 +6916,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Lê Lan Anh",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1769"
   },
@@ -6925,7 +6925,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Thái Thành Chánh",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1770"
   },
@@ -6934,7 +6934,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tiến Dũng",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1771"
   },
@@ -6943,7 +6943,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Hoàng Quốc Đạt",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1772"
   },
@@ -6952,7 +6952,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Tuyết Hoa",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1773"
   },
@@ -6961,7 +6961,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phương Hùng",
     "class": "24DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1774"
   },
@@ -6970,7 +6970,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Mai Linh",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1775"
   },
@@ -6979,7 +6979,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ánh Ngọc",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1776"
   },
@@ -6988,7 +6988,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Như Ngọc",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1777"
   },
@@ -6997,7 +6997,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Võ Tuấn Nguyên",
     "class": "22DQTC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1778"
   },
@@ -7006,7 +7006,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Thị Mộng Phúc",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1779"
   },
@@ -7015,7 +7015,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đàm Chí Phương",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1780"
   },
@@ -7024,7 +7024,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Phương",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1781"
   },
@@ -7033,7 +7033,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Diễm Quỳnh",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1782"
   },
@@ -7042,7 +7042,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thanh Tâm",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1783"
   },
@@ -7051,7 +7051,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Mộng Tiên",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1784"
   },
@@ -7060,7 +7060,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Đại Thắng",
     "class": "21DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1785"
   },
@@ -7069,7 +7069,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lê Anh Thư",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1786"
   },
@@ -7078,7 +7078,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Minh Thư",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1787"
   },
@@ -7087,7 +7087,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hồng Trang",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1788"
   },
@@ -7096,7 +7096,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Phương Trang",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1789"
   },
@@ -7105,7 +7105,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thụy Tuyết Trinh",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1790"
   },
@@ -7114,7 +7114,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lương Phúc Kiều Anh",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1791"
   },
@@ -7123,7 +7123,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Đoàn Trâm Anh",
     "class": "24DKQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1792"
   },
@@ -7132,7 +7132,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Ngọc Diễm",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1793"
   },
@@ -7141,7 +7141,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Thị Ngọc Hân",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1794"
   },
@@ -7150,7 +7150,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Mạnh Hùng",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1795"
   },
@@ -7159,7 +7159,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Phúc Huy",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1796"
   },
@@ -7168,7 +7168,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Công Khanh",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1797"
   },
@@ -7177,7 +7177,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Nhật Lâm",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1798"
   },
@@ -7186,7 +7186,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ksor Lê",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1799"
   },
@@ -7195,7 +7195,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phương Linh",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1800"
   },
@@ -7204,7 +7204,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Quỳnh Thảo Nguyên",
     "class": "24DKQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1801"
   },
@@ -7213,7 +7213,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đoàn Kiều Oanh",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1802"
   },
@@ -7222,7 +7222,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Chiêm Hoà Phát",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1803"
   },
@@ -7231,7 +7231,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Văn Phú",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1804"
   },
@@ -7240,7 +7240,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Văn Sơn",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1805"
   },
@@ -7249,7 +7249,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Kim Tỉnh",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1806"
   },
@@ -7258,7 +7258,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Vi Thảo",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1807"
   },
@@ -7267,7 +7267,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Ngọc Thiện",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1808"
   },
@@ -7276,7 +7276,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Lê Minh Thư",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1809"
   },
@@ -7285,7 +7285,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Huyền Trang",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1810"
   },
@@ -7294,7 +7294,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Thị Yến Trang",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1811"
   },
@@ -7303,7 +7303,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Bảo Trân",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1812"
   },
@@ -7312,7 +7312,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thị Phương Uyên",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1813"
   },
@@ -7321,7 +7321,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Tường Vi",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3025/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1814"
   },
@@ -7330,7 +7330,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Anh",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1815"
   },
@@ -7339,7 +7339,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trịnh Thái Thanh Bình",
     "class": "23DQTB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1816"
   },
@@ -7348,7 +7348,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Mỹ Dung",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1817"
   },
@@ -7357,7 +7357,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Tiến Đạt",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1818"
   },
@@ -7366,7 +7366,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lê Ngọc Hà",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1819"
   },
@@ -7375,7 +7375,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Thị Hà",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1820"
   },
@@ -7384,7 +7384,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thanh Hiền",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1821"
   },
@@ -7393,7 +7393,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hải Hòa",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1822"
   },
@@ -7402,7 +7402,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lưu Thị Như Hường",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1823"
   },
@@ -7411,7 +7411,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Ngọc Đăng Khoa",
     "class": "23DQTB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1824"
   },
@@ -7420,7 +7420,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Tuấn Long",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1825"
   },
@@ -7429,7 +7429,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phúc Lyn",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1826"
   },
@@ -7438,7 +7438,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Thị Huyền Ni",
     "class": "23DKQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1827"
   },
@@ -7447,7 +7447,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Dương Bảo Ngọc",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1828"
   },
@@ -7456,7 +7456,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trịnh Phương Nhung",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1829"
   },
@@ -7465,7 +7465,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Nhật Anh Phương",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1830"
   },
@@ -7474,7 +7474,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Trần Hà Phương",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1831"
   },
@@ -7483,7 +7483,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lương Đặng Hương Quỳnh",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1832"
   },
@@ -7492,7 +7492,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Diệu Tâm",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1833"
   },
@@ -7501,7 +7501,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thanh Thảo",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1834"
   },
@@ -7510,7 +7510,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Giáp Văn Thuận",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1835"
   },
@@ -7519,7 +7519,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Bảo Trân",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1836"
   },
@@ -7528,7 +7528,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Triệu Hạ Vy",
     "class": "23DKQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1837"
   },
@@ -7537,7 +7537,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Hoàng Nguyên Anh",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1838"
   },
@@ -7546,7 +7546,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tăng Bá Cường",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1839"
   },
@@ -7555,7 +7555,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Nguyên Gia Khang",
     "class": "24DQTB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1840"
   },
@@ -7564,7 +7564,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Quốc Khánh",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1841"
   },
@@ -7573,7 +7573,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hoài Linh",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1842"
   },
@@ -7582,7 +7582,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Văn Lực",
     "class": "24DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1843"
   },
@@ -7591,7 +7591,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phạm Yến Nga",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1844"
   },
@@ -7600,7 +7600,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Kim Ngân",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1845"
   },
@@ -7609,7 +7609,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Kim Ngân",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1846"
   },
@@ -7618,7 +7618,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Ngọc",
     "class": "23DLQB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1847"
   },
@@ -7627,7 +7627,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Phương Nhi",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1848"
   },
@@ -7636,7 +7636,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Phạm Hoàng Phương",
     "class": "24DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1849"
   },
@@ -7645,7 +7645,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tấn Sang",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1850"
   },
@@ -7654,7 +7654,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Đoan Trang",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1851"
   },
@@ -7663,7 +7663,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Thanh Trang",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1852"
   },
@@ -7672,7 +7672,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Phong Vân",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1853"
   },
@@ -7681,7 +7681,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Hải Yến",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1854"
   },
@@ -7690,7 +7690,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hải Yến",
     "class": "23DQTB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3026/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1855"
   },
@@ -7699,7 +7699,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Nhật Bảo Anh",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1856"
   },
@@ -7708,7 +7708,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Hoàng Duy",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1857"
   },
@@ -7717,7 +7717,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Mang Thành Đức",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1858"
   },
@@ -7726,7 +7726,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Gia Hân",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1859"
   },
@@ -7735,7 +7735,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Kim Huệ",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1860"
   },
@@ -7744,7 +7744,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lâm Mỹ Huyền",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1861"
   },
@@ -7753,7 +7753,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Khôi",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1862"
   },
@@ -7762,7 +7762,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Trúc Ly",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1863"
   },
@@ -7771,7 +7771,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Văn Mạnh",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1864"
   },
@@ -7780,7 +7780,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Minh Ngọc",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1865"
   },
@@ -7789,7 +7789,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Nguyễn Khánh Ngọc",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1866"
   },
@@ -7798,7 +7798,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Yến Nhi",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1867"
   },
@@ -7807,7 +7807,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hương Thảo",
     "class": "22DKQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1868"
   },
@@ -7816,7 +7816,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hà Thanh Thư",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1869"
   },
@@ -7825,7 +7825,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Anh Thư",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1870"
   },
@@ -7834,7 +7834,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Thị Thùy Trang",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1871"
   },
@@ -7843,7 +7843,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Lê Thu Trang",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1872"
   },
@@ -7852,7 +7852,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Lâm Phúc Trí",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1873"
   },
@@ -7861,7 +7861,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Thị Ngân Xoa",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1874"
   },
@@ -7870,7 +7870,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Bảo Yến",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1875"
   },
@@ -7879,7 +7879,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Trần Gia Bảo",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1876"
   },
@@ -7888,7 +7888,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Mỹ Diệu",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1877"
   },
@@ -7897,7 +7897,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trần Nhật Giang",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1878"
   },
@@ -7906,7 +7906,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thúy Hiền",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1879"
   },
@@ -7915,7 +7915,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Huỳnh Kim Hoàng",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1880"
   },
@@ -7924,7 +7924,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tống Thị Khánh Linh",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1881"
   },
@@ -7933,7 +7933,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Đình Ân Lộc",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1882"
   },
@@ -7942,7 +7942,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Kim Nhàn",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1883"
   },
@@ -7951,7 +7951,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Huỳnh Như",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1884"
   },
@@ -7960,7 +7960,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Phúc",
     "class": "24DKQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1885"
   },
@@ -7969,7 +7969,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đàm Việt Phương",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1886"
   },
@@ -7978,7 +7978,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Thế Sơn",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1887"
   },
@@ -7987,7 +7987,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Tuyền",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1888"
   },
@@ -7996,7 +7996,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Phước Ánh Tuyết",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1889"
   },
@@ -8005,7 +8005,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lý Ngọc Tuyết",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1890"
   },
@@ -8014,7 +8014,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Kim Thoại",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1891"
   },
@@ -8023,7 +8023,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Thúy",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1892"
   },
@@ -8032,7 +8032,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Minh Thư",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1893"
   },
@@ -8041,7 +8041,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Phạm Thanh Trúc",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1894"
   },
@@ -8050,7 +8050,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Khả Uyên",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1895"
   },
@@ -8059,7 +8059,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Tường Vy",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1896"
   },
@@ -8068,7 +8068,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Ngọc Như Ý",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3027/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1897"
   },
@@ -8077,7 +8077,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Anh",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1898"
   },
@@ -8086,7 +8086,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Đa Chưởng",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1899"
   },
@@ -8095,7 +8095,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Lê Gia Hân",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1900"
   },
@@ -8104,7 +8104,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lưu Thị Thu Hiền",
     "class": "23DMAA4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1901"
   },
@@ -8113,7 +8113,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Quốc Huy",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1902"
   },
@@ -8122,7 +8122,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Kiếm Khách",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1903"
   },
@@ -8131,7 +8131,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Minh Khang",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1904"
   },
@@ -8140,7 +8140,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Võ Trúc Lam",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1905"
   },
@@ -8149,7 +8149,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Trúc Liễu",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1906"
   },
@@ -8158,7 +8158,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vòng Minh Linh",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1907"
   },
@@ -8167,7 +8167,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trương Bảo Ngọc",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1908"
   },
@@ -8176,7 +8176,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thảo Yến Nhi",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1909"
   },
@@ -8185,7 +8185,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Linh Nhi",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1910"
   },
@@ -8194,7 +8194,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Văn Thị Yến Nhi",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1911"
   },
@@ -8203,7 +8203,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hồng Nhung",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1912"
   },
@@ -8212,7 +8212,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Hồng Sơn",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1913"
   },
@@ -8221,7 +8221,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Huỳnh Phát Tài",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1914"
   },
@@ -8230,7 +8230,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Anh Tú",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1915"
   },
@@ -8239,7 +8239,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Phương Thảo",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1916"
   },
@@ -8248,7 +8248,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thị Thanh Thúy",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1917"
   },
@@ -8257,7 +8257,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Anh Thư",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1918"
   },
@@ -8266,7 +8266,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Nhật Trường",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1919"
   },
@@ -8275,7 +8275,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Nguyễn Tường Vy",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1920"
   },
@@ -8284,7 +8284,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Yến Vy",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1921"
   },
@@ -8293,7 +8293,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Tuấn Anh",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1922"
   },
@@ -8302,7 +8302,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Hoàng Ngọc Anh",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1923"
   },
@@ -8311,7 +8311,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Quốc Bảo",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1924"
   },
@@ -8320,7 +8320,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Nguyễn Thuỳ Duyên",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1925"
   },
@@ -8329,7 +8329,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Kim Hạnh",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1926"
   },
@@ -8338,7 +8338,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Thạch Phạm Mỹ Hạnh",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1927"
   },
@@ -8347,7 +8347,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Thành Nữ Gia Hân",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1928"
   },
@@ -8356,7 +8356,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Tuấn Kiên",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1929"
   },
@@ -8365,7 +8365,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Thanh Lam",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1930"
   },
@@ -8374,7 +8374,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Kim Linh",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1931"
   },
@@ -8383,7 +8383,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Mẫn",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1932"
   },
@@ -8392,7 +8392,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Thụy Trúc My",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1933"
   },
@@ -8401,7 +8401,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Ngọc Như",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1934"
   },
@@ -8410,7 +8410,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Trần Lan Phương",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1935"
   },
@@ -8419,7 +8419,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Phương",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1936"
   },
@@ -8428,7 +8428,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thị Bích Thủy",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1937"
   },
@@ -8437,7 +8437,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Minh Thư",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1938"
   },
@@ -8446,7 +8446,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Châu Mai Thy",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1939"
   },
@@ -8455,7 +8455,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Trang",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1940"
   },
@@ -8464,7 +8464,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Ngọc Bích Trâm",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1941"
   },
@@ -8473,7 +8473,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tiêu Bội Trân",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1942"
   },
@@ -8482,7 +8482,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Nguyễn Thiên Trúc",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1943"
   },
@@ -8491,7 +8491,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Hải Yến",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3028/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1944"
   },
@@ -8500,7 +8500,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thùy Chi",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1945"
   },
@@ -8509,7 +8509,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Mang Thị Mỹ Hạnh",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1946"
   },
@@ -8518,7 +8518,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lê Ngọc Hân",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1947"
   },
@@ -8527,7 +8527,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hứa Huy Hoàng",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1948"
   },
@@ -8536,7 +8536,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Nguyễn Gia Huy",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1949"
   },
@@ -8545,7 +8545,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Vũ Hưng",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1950"
   },
@@ -8554,7 +8554,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Hoàng Khanh",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1951"
   },
@@ -8563,7 +8563,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Lan",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1952"
   },
@@ -8572,7 +8572,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hàng Khánh Linh",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1953"
   },
@@ -8581,7 +8581,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Mìu Mỹ Ngân",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1954"
   },
@@ -8590,7 +8590,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngần Thị Ý Nhi",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1955"
   },
@@ -8599,7 +8599,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Phi",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1956"
   },
@@ -8608,7 +8608,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Minh Phi",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1957"
   },
@@ -8617,7 +8617,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Đình Tài",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1958"
   },
@@ -8626,7 +8626,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Tiến",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1959"
   },
@@ -8635,7 +8635,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đoàn Quốc Tỷ",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1960"
   },
@@ -8644,7 +8644,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Lập Thắng",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1961"
   },
@@ -8653,7 +8653,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Quốc Thắng",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1962"
   },
@@ -8662,7 +8662,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Duy Thiện",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1963"
   },
@@ -8671,7 +8671,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Mai Thị Anh Thư",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1964"
   },
@@ -8680,7 +8680,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Thị Thanh Trà",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1965"
   },
@@ -8689,7 +8689,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hà Nguyễn Phương Trang",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1966"
   },
@@ -8698,7 +8698,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Quỳnh Trang",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1967"
   },
@@ -8707,7 +8707,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Quốc Triệu",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1968"
   },
@@ -8716,7 +8716,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Thị Quỳnh An",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1969"
   },
@@ -8725,7 +8725,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Anh Duy",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1970"
   },
@@ -8734,7 +8734,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Mỹ Duyên",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1971"
   },
@@ -8743,7 +8743,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Trang Hiền",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1972"
   },
@@ -8752,7 +8752,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Chung Hiếu",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1973"
   },
@@ -8761,7 +8761,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Quốc Khánh",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1974"
   },
@@ -8770,7 +8770,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Lương",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1975"
   },
@@ -8779,7 +8779,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Sao Mai",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1976"
   },
@@ -8788,7 +8788,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hồng Ngọc",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1977"
   },
@@ -8797,7 +8797,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Nguyên",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1978"
   },
@@ -8806,7 +8806,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Ngọc Yến Nhi",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1979"
   },
@@ -8815,7 +8815,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Huỳnh Tâm Như",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1980"
   },
@@ -8824,7 +8824,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Hoàng Phát",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1981"
   },
@@ -8833,7 +8833,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Văn Minh Quân",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1982"
   },
@@ -8842,7 +8842,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trọng Quí",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1983"
   },
@@ -8851,7 +8851,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Thụy Thảo Quỳnh",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1984"
   },
@@ -8860,7 +8860,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Tài",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1985"
   },
@@ -8869,7 +8869,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Thiện",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1986"
   },
@@ -8878,7 +8878,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Duy Thơ",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1987"
   },
@@ -8887,7 +8887,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Thảo Vân",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1988"
   },
@@ -8896,7 +8896,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Kiều Vy",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1989"
   },
@@ -8905,7 +8905,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Bảo Lan Yên",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3029/05/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1990"
   },
@@ -8914,7 +8914,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Nguyễn Tuyết Anh",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1991"
   },
@@ -8923,7 +8923,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc Ánh",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1992"
   },
@@ -8932,7 +8932,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Tuyết Băng",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1993"
   },
@@ -8941,7 +8941,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Mỹ Duyên",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1994"
   },
@@ -8950,7 +8950,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tấn Đạt",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1995"
   },
@@ -8959,7 +8959,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Tiên Mỹ Hà",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1996"
   },
@@ -8968,7 +8968,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lồ Sec Hùng",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1997"
   },
@@ -8977,7 +8977,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Văn Hưng",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1998"
   },
@@ -8986,7 +8986,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Duy Khang",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-1999"
   },
@@ -8995,7 +8995,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thị Trúc Khuyên",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2000"
   },
@@ -9004,7 +9004,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Liễu",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2001"
   },
@@ -9013,7 +9013,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Võ Nhật Minh",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2002"
   },
@@ -9022,7 +9022,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Lê Quang Minh",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2003"
   },
@@ -9031,7 +9031,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Lê Kim Ngân",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2004"
   },
@@ -9040,7 +9040,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Kim Ngân",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2005"
   },
@@ -9049,7 +9049,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Ngọc Tuệ Nhi",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2006"
   },
@@ -9058,7 +9058,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Thị Bích Tuyền",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2007"
   },
@@ -9067,7 +9067,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Cao Thị Minh Thư",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2008"
   },
@@ -9076,7 +9076,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lê Phương Uyên",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2009"
   },
@@ -9085,7 +9085,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Hoài Thảo Uyên",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2010"
   },
@@ -9094,7 +9094,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thị Khánh Vy",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2011"
   },
@@ -9103,7 +9103,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Minh Anh",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2012"
   },
@@ -9112,7 +9112,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Nhật Anh",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2013"
   },
@@ -9121,7 +9121,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Gia Bảo",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2014"
   },
@@ -9130,7 +9130,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trần Gia Hân",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2015"
   },
@@ -9139,7 +9139,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Việt Hoàng",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2016"
   },
@@ -9148,7 +9148,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hà Phi Hùng",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2017"
   },
@@ -9157,7 +9157,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Quốc Huy",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2018"
   },
@@ -9166,7 +9166,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đức Huy",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2019"
   },
@@ -9175,7 +9175,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Mai Thị My",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2020"
   },
@@ -9184,7 +9184,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng My",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2021"
   },
@@ -9193,7 +9193,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Mai Hoàng Nguyên",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2022"
   },
@@ -9202,7 +9202,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Văn Thị Hoài Nhung",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2023"
   },
@@ -9211,7 +9211,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc Phương",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2024"
   },
@@ -9220,7 +9220,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Bảo Quyên",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2025"
   },
@@ -9229,7 +9229,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Thị Thanh Tâm",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2026"
   },
@@ -9238,7 +9238,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đào Thanh Thảo",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2027"
   },
@@ -9247,7 +9247,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Trần Anh Thư",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2028"
   },
@@ -9256,7 +9256,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Ngô Thị Minh Thư",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2029"
   },
@@ -9265,7 +9265,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Thu Thương",
     "class": "23DMAB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2030"
   },
@@ -9274,7 +9274,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dư Nhã Trân",
     "class": "23DMAB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2031"
   },
@@ -9283,7 +9283,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Thị Bảo Trân",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2032"
   },
@@ -9292,7 +9292,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Phương Uyên",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3001/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2033"
   },
@@ -9301,7 +9301,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thị Thu Cúc",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2034"
   },
@@ -9310,7 +9310,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Bảo Đăng",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2035"
   },
@@ -9319,7 +9319,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lâm Trần Ngọc Hạnh",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2036"
   },
@@ -9328,7 +9328,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trần Hiếu",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2037"
   },
@@ -9337,7 +9337,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Gia Huy",
     "class": "21DQTB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2038"
   },
@@ -9346,7 +9346,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quang Huy",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2039"
   },
@@ -9355,7 +9355,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Tú Ngọc Huyền",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2040"
   },
@@ -9364,7 +9364,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Thị Thuỳ Hương",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2041"
   },
@@ -9373,7 +9373,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Tấn Khải",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2042"
   },
@@ -9382,7 +9382,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Ngọc Khánh",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2043"
   },
@@ -9391,7 +9391,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Liên",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2044"
   },
@@ -9400,7 +9400,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Thùy Linh",
     "class": "21DQTC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2045"
   },
@@ -9409,7 +9409,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Ngọc Huệ Mẫn",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2046"
   },
@@ -9418,7 +9418,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Ngọc Thúy Ngân",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2047"
   },
@@ -9427,7 +9427,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Minh Nghĩa",
     "class": "21DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2048"
   },
@@ -9436,7 +9436,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Thy Nhã",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2049"
   },
@@ -9445,7 +9445,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Hoàng Oanh",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2050"
   },
@@ -9454,7 +9454,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Chung Thị Ngọc Tuyền",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2051"
   },
@@ -9463,7 +9463,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Thị Hồng Thương",
     "class": "23DMAC1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2052"
   },
@@ -9472,7 +9472,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Thị Yến Trang",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2053"
   },
@@ -9481,7 +9481,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Huyền Trang",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2054"
   },
@@ -9490,7 +9490,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Đức Trọng",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2055"
   },
@@ -9499,7 +9499,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Xuân Quỳnh",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2056"
   },
@@ -9508,7 +9508,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Lê Xuân An",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2057"
   },
@@ -9517,7 +9517,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lưu Nguyễn Hoàng Anh",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2058"
   },
@@ -9526,7 +9526,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Trần Thái Bảo",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2059"
   },
@@ -9535,7 +9535,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hữu Đạt",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2060"
   },
@@ -9544,7 +9544,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Chí Hiếu",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2061"
   },
@@ -9553,7 +9553,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Gia Huy",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2062"
   },
@@ -9562,7 +9562,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trần Minh Huy",
     "class": "21DQTB4",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2063"
   },
@@ -9571,7 +9571,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Mai Hương",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2064"
   },
@@ -9580,7 +9580,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thúy Hường",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2065"
   },
@@ -9589,7 +9589,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Đình Long",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2066"
   },
@@ -9598,7 +9598,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thùy Nga",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2067"
   },
@@ -9607,7 +9607,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Đình Nghiêm",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2068"
   },
@@ -9616,7 +9616,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Kim Ngọc",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2069"
   },
@@ -9625,7 +9625,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Bích Ngọc",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2070"
   },
@@ -9634,7 +9634,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Anh Bảo Ngọc",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2071"
   },
@@ -9643,7 +9643,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đỗ Uyên Nhi",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2072"
   },
@@ -9652,7 +9652,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ánh Phương",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2073"
   },
@@ -9661,7 +9661,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Trương Khả Tú",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2074"
   },
@@ -9670,7 +9670,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Cao Trương Anh Thư",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2075"
   },
@@ -9679,7 +9679,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Lê Anh Thư",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2076"
   },
@@ -9688,7 +9688,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đặng Nguyễn Minh Trọng",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2077"
   },
@@ -9697,7 +9697,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Bảo Xuyến",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3002/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2078"
   },
@@ -9706,7 +9706,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phan Minh Anh",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2079"
   },
@@ -9715,7 +9715,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Đức Đạt",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2080"
   },
@@ -9724,7 +9724,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Bảo Huy",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2081"
   },
@@ -9733,7 +9733,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Duy Khang",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2082"
   },
@@ -9742,7 +9742,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Đan Khanh",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2083"
   },
@@ -9751,7 +9751,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thảo Ly",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2084"
   },
@@ -9760,7 +9760,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Hà My",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2085"
   },
@@ -9769,7 +9769,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thúy Nga",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2086"
   },
@@ -9778,7 +9778,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Kim Ngân",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2087"
   },
@@ -9787,7 +9787,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hồng Ngọc",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2088"
   },
@@ -9796,7 +9796,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Phúc Gia Nguyên",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2089"
   },
@@ -9805,7 +9805,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Ngọc Mai Phương",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2090"
   },
@@ -9814,7 +9814,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Dương Nguyễn Như Quỳnh",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2091"
   },
@@ -9823,7 +9823,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Vũ Tấn Tài",
     "class": "23DLQB5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2092"
   },
@@ -9832,7 +9832,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Võ Ngọc Tâm",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2093"
   },
@@ -9841,7 +9841,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thu Thái",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2094"
   },
@@ -9850,7 +9850,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Nguyễn Phương Thảo",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2095"
   },
@@ -9859,7 +9859,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Kim Hồng Thắng",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2096"
   },
@@ -9868,7 +9868,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thanh Thiện",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2097"
   },
@@ -9877,7 +9877,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Kiều Vi",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2098"
   },
@@ -9886,7 +9886,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Mỹ Vi",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2099"
   },
@@ -9895,7 +9895,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Anh Vũ",
     "class": "25DLQA3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2100"
   },
@@ -9904,7 +9904,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Minh Quân",
     "class": "22DLQA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2101"
   },
@@ -9913,7 +9913,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Trần Bảo Thúy",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2102"
   },
@@ -9922,7 +9922,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Quốc Đạt",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2103"
   },
@@ -9931,7 +9931,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Thị Thục Hạnh",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2104"
   },
@@ -9940,7 +9940,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Vũ Gia Hòa",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2105"
   },
@@ -9949,7 +9949,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Kiều",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2106"
   },
@@ -9958,7 +9958,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Vân Khánh",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2107"
   },
@@ -9967,7 +9967,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Cao Võ Thanh Khoa",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2108"
   },
@@ -9976,7 +9976,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Minh Khuê",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2109"
   },
@@ -9985,7 +9985,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Kim Ngọc",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2110"
   },
@@ -9994,7 +9994,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồng Vũ Phong",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2111"
   },
@@ -10003,7 +10003,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Kim Phương",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2112"
   },
@@ -10012,7 +10012,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc Quý",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2113"
   },
@@ -10021,7 +10021,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Diểm Quỳnh",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2114"
   },
@@ -10030,7 +10030,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Ngọc Sương",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2115"
   },
@@ -10039,7 +10039,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Nguyễn Mỹ Tâm",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2116"
   },
@@ -10048,7 +10048,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Văn Tìm",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2117"
   },
@@ -10057,7 +10057,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Vũ Thị Thanh",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2118"
   },
@@ -10066,7 +10066,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Minh Trang",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2119"
   },
@@ -10075,7 +10075,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Ngọc Thảo Trang",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2120"
   },
@@ -10084,7 +10084,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hoàng Khánh Trâm",
     "class": "23DMAC2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2121"
   },
@@ -10093,7 +10093,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "La Quốc Trọng",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2122"
   },
@@ -10102,7 +10102,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Ngọc Trung",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2123"
   },
@@ -10111,7 +10111,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Ngọc Phương Uyên",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2124"
   },
@@ -10120,7 +10120,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trương Thúy Vi",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "13:30 - 17:3003/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2125"
   },
@@ -10129,7 +10129,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lê Thị Bảo Ngọc",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2126"
   },
@@ -10138,7 +10138,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Bùi Anh Tuấn",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2127"
   },
@@ -10147,7 +10147,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Hồ Văn Vinh",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2128"
   },
@@ -10156,7 +10156,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Lý Thị Thanh Vy",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2129"
   },
@@ -10165,7 +10165,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Đinh Hoàng Băng Châu",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2130"
   },
@@ -10174,7 +10174,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Huỳnh Hữu Đang",
     "class": "23DMAB1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2131"
   },
@@ -10183,7 +10183,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Liễu Gia Hân",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2132"
   },
@@ -10192,7 +10192,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Gia Bảo Hân",
     "class": "23DMAC3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2133"
   },
@@ -10201,7 +10201,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Hồ Bảo Huyên",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2134"
   },
@@ -10210,7 +10210,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Võ Thị Thúy Kiều",
     "class": "23DMAB2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2135"
   },
@@ -10219,7 +10219,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Yến Nhi",
     "class": "22DKQA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2136"
   },
@@ -10228,7 +10228,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Hoàng Hoài Nhiên",
     "class": "23DMAB3",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2137"
   },
@@ -10237,7 +10237,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Thanh Quyên",
     "class": "23DMAA1",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2138"
   },
@@ -10246,7 +10246,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Nguyễn Thị Tố Trân",
     "class": "23DMAA2",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2139"
   },
@@ -10255,7 +10255,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Trần Thị Huyền Trân",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2140"
   },
@@ -10264,7 +10264,7 @@ window.INITIAL_STUDENTS_DATABASE = [
     "name": "Phạm Hoài Vũ",
     "class": "23DMAA5",
     "faculty": "Quản trị & Du lịch HUTECH",
-    "date": "2026-03-13",
+    "date": "8:00 - 12:0004/06/2026",
     "topic": "Quy Trình Tuyển Dụng Thực Chiến & Phát Triển Năng Lực Nhân Sự Trong Doanh Nghiệp",
     "certId": "HR1-HT-2026-2141"
   }
