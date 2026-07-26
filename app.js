@@ -490,7 +490,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (fullNameColIndex !== -1 && row[fullNameColIndex] !== undefined) fullNameDirect = row[fullNameColIndex].toString().trim();
                 if (classColIndex !== -1 && row[classColIndex] !== undefined) studentClass = row[classColIndex].toString().trim();
                 if (facultyColIndex !== -1 && row[facultyColIndex] !== undefined) faculty = row[facultyColIndex].toString().trim();
-                if (dateColIndex !== -1 && row[dateColIndex] !== undefined) date = row[dateColIndex].toString().trim();
+                if (dateColIndex !== -1 && row[dateColIndex] !== undefined) date = formatDate(row[dateColIndex].toString().trim());
             }
 
             let finalFullName = "";
@@ -524,7 +524,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (addedCount > 0) {
-            alert(`✅ Đã nạp thành công ${addedCount} sinh viên từ tệp ${fileType}!`);
+            alert(`✅ Đã nạp thành công ${addedCount} sinh viên mới!`);
             renderAdminTable();
         } else {
             alert("⚠️ Chưa đọc được dữ liệu. Vui lòng kiểm tra lại cấu trúc bảng!");
