@@ -41,6 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const certStudentFaculty = document.getElementById('cert-student-faculty');
     const certTopicTitle = document.getElementById('cert-topic-title');
     const certTourDate = document.getElementById('cert-tour-date');
+    const certStudentDateMeta = document.getElementById('cert-student-date-meta');
     const certQrId = document.getElementById('cert-qr-id');
     const certQrCodeContainer = document.getElementById('cert-qr-code');
 
@@ -177,6 +178,7 @@ document.addEventListener('DOMContentLoaded', () => {
             certStudentFaculty.textContent = found.faculty;
             certTopicTitle.textContent = `"${found.topic}"`;
             certTourDate.textContent = formatDate(found.date);
+            if (certStudentDateMeta) certStudentDateMeta.textContent = formatDate(found.date);
             certQrId.textContent = found.certId;
 
             generateQrCode(found.certId);
@@ -213,11 +215,27 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function formatDate(dateStr) {
         if (!dateStr) return '';
-        const parts = dateStr.toString().split('-');
-        if (parts.length === 3) {
-            return `${parts[2]}/${parts[1]}/${parts[0]}`;
+        let str = dateStr.toString().trim();
+        
+        // 1. Quét định dạng ISO YYYY-MM-DD (VD: 2026-03-13 08:30)
+        const isoMatch = str.match(/\b(\d{4})[-/](\d{1,2})[-/](\d{1,2})\b/);
+        if (isoMatch) {
+            const year = isoMatch[1];
+            const month = isoMatch[2].padStart(2, '0');
+            const day = isoMatch[3].padStart(2, '0');
+            return `${day}/${month}/${year}`;
         }
-        return dateStr;
+        
+        // 2. Quét định dạng Việt Nam DD/MM/YYYY (VD: 08:30 - 13/03/2026)
+        const dateMatch = str.match(/\b(\d{1,2})[-/](\d{1,2})[-/](\d{4})\b/);
+        if (dateMatch) {
+            const day = dateMatch[1].padStart(2, '0');
+            const month = dateMatch[2].padStart(2, '0');
+            const year = dateMatch[3];
+            return `${day}/${month}/${year}`;
+        }
+        
+        return str;
     }
 
     // ----------------------------------------------------------------------
@@ -401,6 +419,13 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    function removeDiacritics(str) {
+        return str.normalize("NFD")
+                  .replace(/[\u0300-\u036f]/g, "")
+                  .replace(/đ/g, "d")
+                  .replace(/Đ/g, "D");
+    }
+
     function importStudentMatrix(matrix, fileType) {
         if (!matrix || matrix.length === 0) {
             alert(`Tệp ${fileType} không có dữ liệu!`);
@@ -416,8 +441,8 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!row || !Array.isArray(row)) continue;
 
             for (let c = 0; c < row.length; c++) {
-                const cell = row[c] ? row[c].toString().trim().toLowerCase() : "";
-                if (cell.includes("mssv") || cell.includes("mã sv") || cell.includes("mã sinh viên") || cell.includes("masv") || cell.includes("mã_sv") || cell === "ms sv" || cell === "mã số sv") {
+                const cell = row[c] ? removeDiacritics(row[c].toString().trim().toLowerCase()) : "";
+                if (cell.includes("mssv") || cell.includes("ma sv") || cell.includes("ma sinh vien") || cell.includes("masv") || cell.includes("ma_sv") || cell === "ms sv" || cell === "ma so sv") {
                     headerRowIndex = r;
                     mssvColIndex = c;
                     break;
@@ -430,19 +455,19 @@ document.addEventListener('DOMContentLoaded', () => {
             const headerRow = matrix[headerRowIndex];
             for (let c = 0; c < headerRow.length; c++) {
                 if (c === mssvColIndex) continue;
-                const cell = headerRow[c] ? headerRow[c].toString().trim().toLowerCase() : "";
+                const cell = headerRow[c] ? removeDiacritics(headerRow[c].toString().trim().toLowerCase()) : "";
                 
-                if (cell.includes("họ lót") || cell.includes("họ và tên lót") || cell.includes("họ & tên lót") || cell === "họ" || cell.includes("ho lot") || cell.includes("holotsv")) {
+                if (cell.includes("ho lot") || cell.includes("ho va ten lot") || cell.includes("ho & ten lot") || cell === "ho" || cell.includes("holotsv")) {
                     hoLotColIndex = c;
-                } else if (cell === "tên" || cell === "ten" || cell.includes("tensv") || cell.includes("tên sinh viên")) {
+                } else if (cell === "ten" || cell.includes("tensv") || cell.includes("ten sinh vien")) {
                     tenColIndex = c;
-                } else if (cell.includes("họ tên") || cell.includes("họ và tên") || cell.includes("full name") || cell === "name") {
+                } else if (cell.includes("ho ten") || cell.includes("ho va ten") || cell.includes("full name") || cell === "name") {
                     fullNameColIndex = c;
-                } else if (cell.includes("lớp") || cell.includes("class") || cell.includes("malop")) {
+                } else if (cell.includes("lop") || cell.includes("class") || cell.includes("malop")) {
                     classColIndex = c;
-                } else if (cell.includes("khoa") || cell.includes("viện") || cell.includes("faculty")) {
+                } else if (cell.includes("khoa") || cell.includes("vien") || cell.includes("faculty")) {
                     facultyColIndex = c;
-                } else if (cell.includes("ngày") || cell.includes("date") || cell.includes("tour")) {
+                } else if (cell.includes("ngay") || cell.includes("date") || cell.includes("tour") || cell.includes("thoi gian") || cell.includes("time") || cell.includes("gio")) {
                     dateColIndex = c;
                 }
             }
