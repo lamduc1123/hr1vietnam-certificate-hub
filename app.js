@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // ----------------------------------------------------------------------
     // 2. DOM ELEMENTS
     // ----------------------------------------------------------------------
-    const navButtons = document.querySelectorAll('.nav-btn');
+    const navButtons = document.querySelectorAll('.nav-link, .nav-btn');
     const tabPanes = document.querySelectorAll('.tab-pane');
     const themeToggleBtn = document.getElementById('theme-toggle');
 
@@ -82,16 +82,19 @@ document.addEventListener('DOMContentLoaded', () => {
             tabPanes.forEach(p => p.classList.add('hidden'));
 
             btn.classList.add('active');
-            document.getElementById(target).classList.remove('hidden');
+            const targetEl = document.getElementById(target);
+            if (targetEl) {
+                targetEl.classList.remove('hidden');
+            }
 
             if (target === 'tab-admin') {
                 if (isAdminAuthenticated) {
-                    adminAuthBox.classList.add('hidden');
-                    adminContentBox.classList.remove('hidden');
+                    if (adminAuthBox) adminAuthBox.classList.add('hidden');
+                    if (adminContentBox) adminContentBox.classList.remove('hidden');
                     renderAdminTable();
                 } else {
-                    adminAuthBox.classList.remove('hidden');
-                    adminContentBox.classList.add('hidden');
+                    if (adminAuthBox) adminAuthBox.classList.remove('hidden');
+                    if (adminContentBox) adminContentBox.classList.add('hidden');
                 }
             }
         });
@@ -99,15 +102,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Admin PIN Validation
     function authenticateAdmin() {
+        if (!inputAdminPin) return;
         const pin = inputAdminPin.value.trim();
         if (pin === '123456' || pin === 'hr12026' || pin === 'hr1vietnam') {
             isAdminAuthenticated = true;
-            adminPinError.classList.add('hidden');
-            adminAuthBox.classList.add('hidden');
-            adminContentBox.classList.remove('hidden');
+            if (adminPinError) adminPinError.classList.add('hidden');
+            if (adminAuthBox) adminAuthBox.classList.add('hidden');
+            if (adminContentBox) adminContentBox.classList.remove('hidden');
             renderAdminTable();
         } else {
-            adminPinError.classList.remove('hidden');
+            if (adminPinError) adminPinError.classList.remove('hidden');
         }
     }
 
@@ -120,15 +124,22 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    document.getElementById('btn-brand-home').addEventListener('click', () => {
-        navButtons[0].click();
-    });
+    const btnBrandHome = document.getElementById('btn-brand-home');
+    if (btnBrandHome) {
+        btnBrandHome.addEventListener('click', () => {
+            if (navButtons && navButtons.length > 0) {
+                navButtons[0].click();
+            }
+        });
+    }
 
-    themeToggleBtn.addEventListener('click', () => {
-        document.body.classList.toggle('theme-light');
-        const isLight = document.body.classList.contains('theme-light');
-        themeToggleBtn.innerHTML = isLight ? '<i class="fa-solid fa-sun"></i>' : '<i class="fa-solid fa-moon"></i>';
-    });
+    if (themeToggleBtn) {
+        themeToggleBtn.addEventListener('click', () => {
+            document.body.classList.toggle('theme-light');
+            const isLight = document.body.classList.contains('theme-light');
+            themeToggleBtn.innerHTML = isLight ? '<i class="fa-solid fa-sun"></i>' : '<i class="fa-solid fa-moon"></i>';
+        });
+    }
 
     // ----------------------------------------------------------------------
     // 4. STUDENT SEARCH & CERTIFICATE GENERATION LOGIC
@@ -176,10 +187,15 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    btnSearch.addEventListener('click', () => performSearch(inputMssv.value));
-    inputMssv.addEventListener('keypress', (e) => { if (e.key === 'Enter') performSearch(inputMssv.value); });
+    if (btnSearch) {
+        btnSearch.addEventListener('click', () => performSearch(inputMssv ? inputMssv.value : ''));
+    }
+    if (inputMssv) {
+        inputMssv.addEventListener('keypress', (e) => { if (e.key === 'Enter') performSearch(inputMssv.value); });
+    }
 
     function generateQrCode(certId) {
+        if (!certQrCodeContainer) return;
         certQrCodeContainer.innerHTML = '';
         const verifyUrl = `${window.location.origin}${window.location.pathname}?verify=${certId}`;
         
@@ -187,7 +203,7 @@ document.addEventListener('DOMContentLoaded', () => {
             text: verifyUrl,
             width: 56,
             height: 56,
-            colorDark: "#0f172a",
+            colorDark: "#101828",
             colorLight: "#ffffff",
             correctLevel: QRCode.CorrectLevel.M
         });
@@ -205,78 +221,88 @@ document.addEventListener('DOMContentLoaded', () => {
     // ----------------------------------------------------------------------
     // 5. PDF & PNG DOWNLOAD LOGIC
     // ----------------------------------------------------------------------
-    btnDownloadPng.addEventListener('click', async () => {
-        if (!currentSelectedStudent) return;
-        btnDownloadPng.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Đang Tạo Ảnh...';
-        btnDownloadPng.disabled = true;
+    if (btnDownloadPng) {
+        btnDownloadPng.addEventListener('click', async () => {
+            if (!currentSelectedStudent) return;
+            btnDownloadPng.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Đang Tạo Ảnh...';
+            btnDownloadPng.disabled = true;
 
-        try {
-            const certElement = document.getElementById('certificate-template');
-            const canvas = await html2canvas(certElement, {
-                scale: 2.5,
-                useCORS: true,
-                backgroundColor: '#fffdf8'
-            });
+            try {
+                const certElement = document.getElementById('certificate-template');
+                const canvas = await html2canvas(certElement, {
+                    scale: 2.5,
+                    useCORS: true,
+                    backgroundColor: '#fffdf8'
+                });
 
-            const link = document.createElement('a');
-            link.download = `Certificate_HR1Vietnam_${currentSelectedStudent.mssv}_${currentSelectedStudent.name.replace(/\s+/g, '_')}.png`;
-            link.href = canvas.toDataURL('image/png');
-            link.click();
-        } catch (err) {
-            alert('Có lỗi khi xuất file ảnh: ' + err.message);
-        } finally {
-            btnDownloadPng.innerHTML = '<i class="fa-solid fa-image"></i> Tải Ảnh PNG (Nét Cao)';
-            btnDownloadPng.disabled = false;
-        }
-    });
+                const link = document.createElement('a');
+                link.download = `Certificate_HR1Vietnam_${currentSelectedStudent.mssv}_${currentSelectedStudent.name.replace(/\s+/g, '_')}.png`;
+                link.href = canvas.toDataURL('image/png');
+                link.click();
+            } catch (err) {
+                alert('Có lỗi khi xuất file ảnh: ' + err.message);
+            } finally {
+                btnDownloadPng.innerHTML = '<i class="fa-solid fa-image"></i> Tải Ảnh PNG (Nét Cao)';
+                btnDownloadPng.disabled = false;
+            }
+        });
+    }
 
-    btnDownloadPdf.addEventListener('click', async () => {
-        if (!currentSelectedStudent) return;
-        btnDownloadPdf.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Đang Tạo PDF...';
-        btnDownloadPdf.disabled = true;
+    if (btnDownloadPdf) {
+        btnDownloadPdf.addEventListener('click', async () => {
+            if (!currentSelectedStudent) return;
+            btnDownloadPdf.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Đang Tạo PDF...';
+            btnDownloadPdf.disabled = true;
 
-        try {
-            const certElement = document.getElementById('certificate-template');
-            const canvas = await html2canvas(certElement, {
-                scale: 2.5,
-                useCORS: true,
-                backgroundColor: '#fffdf8'
-            });
+            try {
+                const certElement = document.getElementById('certificate-template');
+                const canvas = await html2canvas(certElement, {
+                    scale: 2.5,
+                    useCORS: true,
+                    backgroundColor: '#fffdf8'
+                });
 
-            const imgData = canvas.toDataURL('image/png');
-            const { jsPDF } = window.jspdf;
-            const pdf = new jsPDF({ orientation: 'landscape', unit: 'mm', format: 'a4' });
+                const imgData = canvas.toDataURL('image/png');
+                const { jsPDF } = window.jspdf;
+                const pdf = new jsPDF({ orientation: 'landscape', unit: 'mm', format: 'a4' });
 
-            const pdfWidth = pdf.internal.pageSize.getWidth();
-            const pdfHeight = pdf.internal.pageSize.getHeight();
+                const pdfWidth = pdf.internal.pageSize.getWidth();
+                const pdfHeight = pdf.internal.pageSize.getHeight();
 
-            pdf.addImage(imgData, 'PNG', 0, 0, pdfWidth, pdfHeight);
-            pdf.save(`Certificate_HR1Vietnam_${currentSelectedStudent.mssv}.pdf`);
-        } catch (err) {
-            alert('Có lỗi khi tạo file PDF: ' + err.message);
-        } finally {
-            btnDownloadPdf.innerHTML = '<i class="fa-solid fa-file-pdf"></i> Tải PDF (Đính CV / Hồ sơ)';
-            btnDownloadPdf.disabled = false;
-        }
-    });
+                pdf.addImage(imgData, 'PNG', 0, 0, pdfWidth, pdfHeight);
+                pdf.save(`Certificate_HR1Vietnam_${currentSelectedStudent.mssv}.pdf`);
+            } catch (err) {
+                alert('Có lỗi khi tạo file PDF: ' + err.message);
+            } finally {
+                btnDownloadPdf.innerHTML = '<i class="fa-solid fa-file-pdf"></i> Tải PDF (Đính CV / Hồ sơ)';
+                btnDownloadPdf.disabled = false;
+            }
+        });
+    }
 
     // ----------------------------------------------------------------------
     // 6. LINKEDIN SHARE LOGIC
     // ----------------------------------------------------------------------
-    btnShareLinkedin.addEventListener('click', () => {
-        if (!currentSelectedStudent) return;
-        const copyText = `🎓 RẤT TỰ HÀO KHI HOÀN THÀNH COMPANY TOUR TẠI HR1VIETNAM! 🎓\n\nVừa qua, mình đã có cơ hội tuyệt vời tham gia chương trình tham quan và học tập chuyên đề Nhân sự tại doanh nghiệp HR1Vietnam.\n\n✨ Bài học tâm đắc nhất:\n- Quy trình tuyển dụng nhân sự thực chiến\n- Kỹ năng xây dựng hồ sơ ấn tượng và định hướng nghề nghiệp HR\n\nCảm ơn Quý Công ty HR1Vietnam và Ban Giảng viên Khoa ${currentSelectedStudent.faculty} - Trường Đại học HUTECH đã tạo điều kiện cho chúng mình có chuyến trải nghiệm thực tế đầy giá trị! 🚀\n\n#HR1Vietnam #HUTECH #CompanyTour #HRCareer #CertificateOfCompletion #HR1Academy`;
+    if (btnShareLinkedin) {
+        btnShareLinkedin.addEventListener('click', () => {
+            if (!currentSelectedStudent) return;
+            const copyText = `🎓 RẤT TỰ HÀO KHI HOÀN THÀNH COMPANY TOUR TẠI HR1VIETNAM! 🎓\n\nVừa qua, mình đã có cơ hội tuyệt vời tham gia chương trình tham quan và học tập chuyên đề Nhân sự tại doanh nghiệp HR1Vietnam.\n\n✨ Bài học tâm đắc nhất:\n- Quy trình tuyển dụng nhân sự thực chiến\n- Kỹ năng xây dựng hồ sơ ấn tượng và định hướng nghề nghiệp HR\n\nCảm ơn Quý Công ty HR1Vietnam và Ban Giảng viên Khoa ${currentSelectedStudent.faculty} - Trường Đại học HUTECH đã tạo điều kiện cho chúng mình có chuyến trải nghiệm thực tế đầy giá trị! 🚀\n\n#HR1Vietnam #HUTECH #CompanyTour #HRCareer #CertificateOfCompletion #HR1Academy`;
 
-        linkedinText.value = copyText;
-        modalLinkedin.classList.remove('hidden');
-    });
+            if (linkedinText) linkedinText.value = copyText;
+            if (modalLinkedin) modalLinkedin.classList.remove('hidden');
+        });
+    }
 
-    btnCopyLinkedin.addEventListener('click', () => {
-        linkedinText.select();
-        document.execCommand('copy');
-        btnCopyLinkedin.innerHTML = '<i class="fa-solid fa-check"></i> Đã Sao Chép!';
-        setTimeout(() => { btnCopyLinkedin.innerHTML = '<i class="fa-solid fa-copy"></i> Sao Chép Nội Dung'; }, 2000);
-    });
+    if (btnCopyLinkedin) {
+        btnCopyLinkedin.addEventListener('click', () => {
+            if (linkedinText) {
+                linkedinText.select();
+                document.execCommand('copy');
+            }
+            btnCopyLinkedin.innerHTML = '<i class="fa-solid fa-check"></i> Đã Sao Chép!';
+            setTimeout(() => { btnCopyLinkedin.innerHTML = '<i class="fa-solid fa-copy"></i> Sao Chép Nội Dung'; }, 2000);
+        });
+    }
 
     // ----------------------------------------------------------------------
     // 7. VERIFICATION TAB LOGIC
@@ -320,8 +346,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    btnVerifyNow.addEventListener('click', () => verifyCertCode(inputVerifyCode.value));
-    inputVerifyCode.addEventListener('keypress', (e) => { if (e.key === 'Enter') verifyCertCode(inputVerifyCode.value); });
+    if (btnVerifyNow) {
+        btnVerifyNow.addEventListener('click', () => verifyCertCode(inputVerifyCode ? inputVerifyCode.value : ''));
+    }
+    if (inputVerifyCode) {
+        inputVerifyCode.addEventListener('keypress', (e) => { if (e.key === 'Enter') verifyCertCode(inputVerifyCode.value); });
+    }
 
     const urlParams = new URLSearchParams(window.location.search);
     const verifyParam = urlParams.get('verify');
