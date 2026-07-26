@@ -68,6 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const modalAddStudent = document.getElementById('modal-add-student');
     const formAddStudent = document.getElementById('form-add-student');
     const btnExportDatabase = document.getElementById('btn-export-database');
+    const btnClearDatabase = document.getElementById('btn-clear-database');
 
     const modalLinkedin = document.getElementById('modal-linkedin');
     const linkedinText = document.getElementById('linkedin-text');
@@ -639,6 +640,16 @@ document.addEventListener('DOMContentLoaded', () => {
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
+        });
+    }
+
+    if (btnClearDatabase) {
+        btnClearDatabase.addEventListener('click', () => {
+            if (confirm("CẢNH BÁO: Hành động này sẽ làm trống danh sách sinh viên hiện tại trong phiên làm việc này để bạn nạp mới từ đầu. Bạn có chắc chắn muốn xóa sạch?")) {
+                studentDatabase = [];
+                renderAdminTable();
+                alert("Đã làm trống danh sách! Bây giờ bạn hãy kéo thả 2 file Word/Excel mới vào để nạp từ đầu.");
+            }
         });
     }
 
