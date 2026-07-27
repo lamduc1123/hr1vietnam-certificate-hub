@@ -913,11 +913,7 @@ body {
     gap: 20px;
 }
 
-@media (max-width: 768px) {
-    .admin-stats-row {
-        grid-template-columns: 1fr;
-    }
-}
+/* Lưu ý: Thuộc tính responsive cho .admin-stats-row đã được gom vào phần media query chung ở cuối tệp styles.css */
 
 .stat-card {
     background: var(--white);
@@ -1168,12 +1164,7 @@ body {
     padding-bottom: 30px;
 }
 
-@media (max-width: 768px) {
-    .footer-grid {
-        grid-template-columns: 1fr;
-        gap: 24px;
-    }
-}
+/* Footer-grid responsive rules are consolidated at the bottom of this file */
 
 .footer-logo-link {
     display: inline-block;
@@ -1213,4 +1204,193 @@ body {
     padding-top: 18px;
     font-size: 10px;
     color: rgba(255, 255, 255, 0.45);
+}
+
+/* ==========================================================================
+   CONSOLIDATED MOBILE RESPONSIVE SYSTEM (max-width: 768px)
+   ========================================================================== */
+@media (max-width: 768px) {
+    /* 1. Header Ribbon */
+    .ribbon-inner {
+        flex-direction: column;
+        text-align: center;
+        padding-block: 8px;
+        gap: 6px;
+        font-size: 8px;
+    }
+
+    /* 2. Main Navigation Header */
+    .header-inner {
+        flex-flow: row wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 12px;
+        padding-block: 16px;
+        min-height: auto;
+    }
+
+    .brand {
+        order: 1;
+        flex: 1 1 auto;
+        gap: 8px;
+        justify-content: flex-start;
+    }
+
+    .brand-logo-img {
+        height: 38px;
+    }
+
+    .nav-actions {
+        order: 2;
+        flex: 0 0 auto;
+        gap: 8px;
+        margin-top: 0;
+    }
+
+    .header-hutech-logo {
+        height: 32px;
+    }
+
+    /* Hide subtitle/partner texts on mobile to save space */
+    .brand-text, 
+    .partner-text {
+        display: none !important;
+    }
+
+    .main-nav {
+        order: 3;
+        flex: 1 1 100%;
+        width: 100%;
+        display: grid !important;
+        grid-template-columns: repeat(3, 1fr) !important;
+        gap: 4px;
+        padding: 4px;
+        margin-top: 12px;
+    }
+
+    .nav-link {
+        padding: 10px 4px;
+        font-size: 11px;
+        text-align: center;
+        white-space: nowrap;
+    }
+
+    /* 3. Hero / Search Banner Card */
+    .hero-card {
+        padding: 32px 20px;
+        margin-top: 16px;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .hero-rail {
+        display: none !important; /* Hide left vertical banner strip on mobile */
+    }
+
+    .hero-content-box {
+        margin-left: 0;
+    }
+
+    .hero-title {
+        font-size: 30px !important;
+        line-height: 1.1;
+        text-align: center;
+    }
+
+    .hero-title span {
+        display: inline;
+    }
+
+    .hero-title em {
+        font-size: 24px !important;
+        margin-top: 6px;
+        text-align: center;
+    }
+
+    .micro-label {
+        justify-content: center;
+        width: 100%;
+        margin-bottom: 16px;
+    }
+
+    .hero-desc {
+        font-size: 13px;
+        text-align: center;
+        margin-bottom: 24px;
+        line-height: 1.6;
+    }
+
+    /* 4. Search input wrapper */
+    .input-wrapper {
+        flex-direction: column;
+        align-items: stretch;
+        background: transparent;
+        border: none;
+        padding: 0;
+        gap: 12px;
+    }
+
+    .input-wrapper .input-icon {
+        display: none;
+    }
+
+    .input-wrapper input {
+        width: 100%;
+        padding: 14px 16px;
+        background: var(--paper);
+        border: 1px solid var(--ink);
+        font-size: 13px;
+        text-align: center;
+    }
+
+    .input-wrapper .button {
+        width: 100%;
+        min-height: 48px;
+        margin-top: 4px;
+    }
+
+    /* 5. Lookup results and grids */
+    .detail-grid {
+        grid-template-columns: 1fr !important;
+        gap: 20px;
+    }
+
+    /* 6. Admin Panel layout fixes */
+    .admin-stats-row {
+        grid-template-columns: 1fr !important;
+        gap: 12px;
+    }
+
+    .admin-card {
+        padding: 20px 16px;
+    }
+
+    .admin-card .card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 16px;
+    }
+
+    .admin-card .card-header div {
+        width: 100% !important;
+        flex-direction: column !important;
+        gap: 8px !important;
+    }
+
+    .admin-card .card-header div button {
+        width: 100% !important;
+        justify-content: center !important;
+    }
+
+    /* 7. Footer grid responsive */
+    .footer-grid {
+        grid-template-columns: 1fr !important;
+        gap: 32px;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+        gap: 12px;
+        text-align: center;
+    }
 }
